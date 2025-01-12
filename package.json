@@ -1,8 +1,8 @@
 {
-  "name": "frontend",
+  "name": "wordtalktalk_tts",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kimjkeun.github.io/wordtalktalk_tts",
+  "homepage": "https://kimjkeun.github.io/wordtalktalk_tts/",
   "type": "module",
   "scripts": {
     "dev": "vite",
