@@ -77,10 +77,13 @@ const useVocabularyStore = create<VocabularyState>((set, get) => ({
 
     // 순차적으로 재생
     for (const url of playQueue) {
-      const audio = new Audio(`${basePath}${url}`);
+      const audio = new Audio(url);
       await new Promise<void>((resolve) => {
         audio.onended = () => resolve();
-        audio.play();
+        audio.play().catch(error => {
+          console.error('Audio playback error:', error);
+          resolve();
+        });
       });
       await new Promise(resolve => setTimeout(resolve, 300)); // 음성 사이 0.3초 간격
     }
