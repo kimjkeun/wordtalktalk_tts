@@ -77,7 +77,7 @@ const useVocabularyStore = create<VocabularyState>((set, get) => ({
 
     // 순차적으로 재생
     for (const url of playQueue) {
-      const audio = new Audio(url);
+      const audio = new Audio(`${basePath}${url}`);
       await new Promise<void>((resolve) => {
         audio.onended = () => resolve();
         audio.play();
