@@ -1,0 +1,1004 @@
+{
+  "vocabulary_items": [
+    {
+      "word": {
+        "text": "apology",
+        "audio": {},
+        "translation": {
+          "text": "사과",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "apparent",
+        "audio": {},
+        "translation": {
+          "text": "명백한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "appeal",
+        "audio": {},
+        "translation": {
+          "text": "호소하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "appear",
+        "audio": {},
+        "translation": {
+          "text": "나타나다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "applause",
+        "audio": {},
+        "translation": {
+          "text": "박수갈채",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "applicant",
+        "audio": {},
+        "translation": {
+          "text": "지원자",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "appoint",
+        "audio": {},
+        "translation": {
+          "text": "임명하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "appreciate",
+        "audio": {},
+        "translation": {
+          "text": "감사하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "approach",
+        "audio": {},
+        "translation": {
+          "text": "접근하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "appropriate",
+        "audio": {},
+        "translation": {
+          "text": "적절한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "approve",
+        "audio": {},
+        "translation": {
+          "text": "승인하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "approximate",
+        "audio": {},
+        "translation": {
+          "text": "대략의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "architect",
+        "audio": {},
+        "translation": {
+          "text": "건축가",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "architecture",
+        "audio": {},
+        "translation": {
+          "text": "건축",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "arctic",
+        "audio": {},
+        "translation": {
+          "text": "북극의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "argue",
+        "audio": {},
+        "translation": {
+          "text": "논쟁하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "arise",
+        "audio": {},
+        "translation": {
+          "text": "발생하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "arrange",
+        "audio": {},
+        "translation": {
+          "text": "정리하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "arrest",
+        "audio": {},
+        "translation": {
+          "text": "체포하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "arrogant",
+        "audio": {},
+        "translation": {
+          "text": "거만한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "arrow",
+        "audio": {},
+        "translation": {
+          "text": "화살",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "artery",
+        "audio": {},
+        "translation": {
+          "text": "동맥",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "article",
+        "audio": {},
+        "translation": {
+          "text": "기사",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "artifice",
+        "audio": {},
+        "translation": {
+          "text": "기교",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "artificial",
+        "audio": {},
+        "translation": {
+          "text": "인공적인",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "aside",
+        "audio": {},
+        "translation": {
+          "text": "옆으로",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "asleep",
+        "audio": {},
+        "translation": {
+          "text": "잠든",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "aspect",
+        "audio": {},
+        "translation": {
+          "text": "측면",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "aspire",
+        "audio": {},
+        "translation": {
+          "text": "열망하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "assault",
+        "audio": {},
+        "translation": {
+          "text": "공격",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "assemble",
+        "audio": {},
+        "translation": {
+          "text": "모으다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "assert",
+        "audio": {},
+        "translation": {
+          "text": "주장하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "assess",
+        "audio": {},
+        "translation": {
+          "text": "평가하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "asset",
+        "audio": {},
+        "translation": {
+          "text": "자산",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "assign",
+        "audio": {},
+        "translation": {
+          "text": "할당하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "assignment",
+        "audio": {},
+        "translation": {
+          "text": "과제",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "assist",
+        "audio": {},
+        "translation": {
+          "text": "돕다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "assistant",
+        "audio": {},
+        "translation": {
+          "text": "조수",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "associate",
+        "audio": {},
+        "translation": {
+          "text": "연관시키다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "assume",
+        "audio": {},
+        "translation": {
+          "text": "가정하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "assure",
+        "audio": {},
+        "translation": {
+          "text": "확신시키다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "astonish",
+        "audio": {},
+        "translation": {
+          "text": "놀라게 하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "athlete",
+        "audio": {},
+        "translation": {
+          "text": "운동선수",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "atmosphere",
+        "audio": {},
+        "translation": {
+          "text": "대기",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "atom",
+        "audio": {},
+        "translation": {
+          "text": "원자",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "attach",
+        "audio": {},
+        "translation": {
+          "text": "부착하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "attain",
+        "audio": {},
+        "translation": {
+          "text": "달성하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "attempt",
+        "audio": {},
+        "translation": {
+          "text": "시도하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "attend",
+        "audio": {},
+        "translation": {
+          "text": "참석하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "attention",
+        "audio": {},
+        "translation": {
+          "text": "주의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "attitude",
+        "audio": {},
+        "translation": {
+          "text": "태도",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "attorney",
+        "audio": {},
+        "translation": {
+          "text": "변호사",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "attract",
+        "audio": {},
+        "translation": {
+          "text": "끌어당기다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "attribute",
+        "audio": {},
+        "translation": {
+          "text": "속성",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "auction",
+        "audio": {},
+        "translation": {
+          "text": "경매",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "audience",
+        "audio": {},
+        "translation": {
+          "text": "청중",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "authentic",
+        "audio": {},
+        "translation": {
+          "text": "진정한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "author",
+        "audio": {},
+        "translation": {
+          "text": "작가",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "automatic",
+        "audio": {},
+        "translation": {
+          "text": "자동의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "autonomy",
+        "audio": {},
+        "translation": {
+          "text": "자율성",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "avail",
+        "audio": {},
+        "translation": {
+          "text": "이용하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "available",
+        "audio": {},
+        "translation": {
+          "text": "이용가능한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "average",
+        "audio": {},
+        "translation": {
+          "text": "평균의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "await",
+        "audio": {},
+        "translation": {
+          "text": "기다리다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "awake",
+        "audio": {},
+        "translation": {
+          "text": "깨어있는",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "aware",
+        "audio": {},
+        "translation": {
+          "text": "알고 있는",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "awe",
+        "audio": {},
+        "translation": {
+          "text": "경외",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "awful",
+        "audio": {},
+        "translation": {
+          "text": "끔찍한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "awkward",
+        "audio": {},
+        "translation": {
+          "text": "어색한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "balloon",
+        "audio": {},
+        "translation": {
+          "text": "풍선",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "ban",
+        "audio": {},
+        "translation": {
+          "text": "금지하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "bankrupt",
+        "audio": {},
+        "translation": {
+          "text": "파산한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "bargain",
+        "audio": {},
+        "translation": {
+          "text": "거래",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "bark",
+        "audio": {},
+        "translation": {
+          "text": "짖다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "barrier",
+        "audio": {},
+        "translation": {
+          "text": "장벽",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "barter",
+        "audio": {},
+        "translation": {
+          "text": "물물교환",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "battle",
+        "audio": {},
+        "translation": {
+          "text": "전투",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "bazaar",
+        "audio": {},
+        "translation": {
+          "text": "시장",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "beam",
+        "audio": {},
+        "translation": {
+          "text": "빔",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "beard",
+        "audio": {},
+        "translation": {
+          "text": "수염",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "beast",
+        "audio": {},
+        "translation": {
+          "text": "짐승",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "behalf",
+        "audio": {},
+        "translation": {
+          "text": "대신하여",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "behave",
+        "audio": {},
+        "translation": {
+          "text": "행동하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "behavior",
+        "audio": {},
+        "translation": {
+          "text": "행동",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "belief",
+        "audio": {},
+        "translation": {
+          "text": "신념",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "belong",
+        "audio": {},
+        "translation": {
+          "text": "속하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "beneath",
+        "audio": {},
+        "translation": {
+          "text": "아래에",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "benefit",
+        "audio": {},
+        "translation": {
+          "text": "이익",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "betray",
+        "audio": {},
+        "translation": {
+          "text": "배신하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "beware",
+        "audio": {},
+        "translation": {
+          "text": "조심하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "bias",
+        "audio": {},
+        "translation": {
+          "text": "편견",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "bid",
+        "audio": {},
+        "translation": {
+          "text": "입찰",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "billion",
+        "audio": {},
+        "translation": {
+          "text": "십억",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "bind",
+        "audio": {},
+        "translation": {
+          "text": "묶다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "biography",
+        "audio": {},
+        "translation": {
+          "text": "전기",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "biology",
+        "audio": {},
+        "translation": {
+          "text": "생물학",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "bitter",
+        "audio": {},
+        "translation": {
+          "text": "쓴",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "blame",
+        "audio": {},
+        "translation": {
+          "text": "비난하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "blank",
+        "audio": {},
+        "translation": {
+          "text": "공백의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "blast",
+        "audio": {},
+        "translation": {
+          "text": "폭발",
+          "audio": null
+        }
+      }
+    }
+  ]
+}

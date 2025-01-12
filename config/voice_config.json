@@ -1,0 +1,47 @@
+{
+    "voice_actors": {
+        "english": {
+            "word": {
+                "engine": "clova",
+                "voices": ["matt", "danna", "clara"],
+                "settings": {
+                    "volume": "1",
+                    "speed": "-1",
+                    "pitch": "1",
+                    "format": "mp3"
+                }
+            },
+            "example": {
+                "engine": "openai",
+                "voice": "echo",
+                "model": "tts-1"
+            }
+        },
+        "korean": {
+            "translation": {
+                "engine": "clova",
+                "voice": "nara",
+                "settings": {
+                    "volume": "1",
+                    "speed": "-1",
+                    "pitch": "1",
+                    "format": "mp3"
+                }
+            }
+        }
+    },
+    "audio_settings": {
+        "format": "mp3",
+        "sample_rate": 44100,
+        "pause_between_words": 1.0,
+        "pause_between_languages": 1.5
+    },
+    "api_endpoints": {
+        "clova": {
+            "url": "https://naveropenapi.apigw.ntruss.com/tts-premium/v1/tts",
+            "headers": {
+                "Content-Type": "application/x-www-form-urlencoded"
+            }
+        }
+    }
+}

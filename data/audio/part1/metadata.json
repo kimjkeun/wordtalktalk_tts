@@ -1,0 +1,3004 @@
+{
+  "vocabulary_items": [
+    {
+      "id": "1",
+      "word": {
+        "text": "abandon",
+        "audio": {
+          "matt": "abandon\\abandon_en_word_matt.mp3",
+          "danna": "abandon\\abandon_en_word_danna.mp3",
+          "clara": "abandon\\abandon_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "버리다, 포기하다",
+          "audio": "abandon\\abandon_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "2",
+      "word": {
+        "text": "abnormal",
+        "audio": {
+          "matt": "abnormal\\abnormal_en_word_matt.mp3",
+          "danna": "abnormal\\abnormal_en_word_danna.mp3",
+          "clara": "abnormal\\abnormal_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "비정상적인, 이상한",
+          "audio": "abnormal\\abnormal_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "3",
+      "word": {
+        "text": "aboard",
+        "audio": {
+          "matt": "aboard\\aboard_en_word_matt.mp3",
+          "danna": "aboard\\aboard_en_word_danna.mp3",
+          "clara": "aboard\\aboard_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "탑승하다",
+          "audio": "aboard\\aboard_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "4",
+      "word": {
+        "text": "abolish",
+        "audio": {
+          "matt": "abolish\\abolish_en_word_matt.mp3",
+          "danna": "abolish\\abolish_en_word_danna.mp3",
+          "clara": "abolish\\abolish_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "폐지하다",
+          "audio": "abolish\\abolish_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "5",
+      "word": {
+        "text": "abort",
+        "audio": {
+          "matt": "abort\\abort_en_word_matt.mp3",
+          "danna": "abort\\abort_en_word_danna.mp3",
+          "clara": "abort\\abort_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "중단하다, 취소하다",
+          "audio": "abort\\abort_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "6",
+      "word": {
+        "text": "abortion",
+        "audio": {
+          "matt": "abortion\\abortion_en_word_matt.mp3",
+          "danna": "abortion\\abortion_en_word_danna.mp3",
+          "clara": "abortion\\abortion_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "낙태",
+          "audio": "abortion\\abortion_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "7",
+      "word": {
+        "text": "abound",
+        "audio": {
+          "matt": "abound\\abound_en_word_matt.mp3",
+          "danna": "abound\\abound_en_word_danna.mp3",
+          "clara": "abound\\abound_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "풍부하다",
+          "audio": "abound\\abound_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "8",
+      "word": {
+        "text": "abroad",
+        "audio": {
+          "matt": "abroad\\abroad_en_word_matt.mp3",
+          "danna": "abroad\\abroad_en_word_danna.mp3",
+          "clara": "abroad\\abroad_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "해외에, 외국에",
+          "audio": "abroad\\abroad_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "9",
+      "word": {
+        "text": "abrupt",
+        "audio": {
+          "matt": "abrupt\\abrupt_en_word_matt.mp3",
+          "danna": "abrupt\\abrupt_en_word_danna.mp3",
+          "clara": "abrupt\\abrupt_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "갑작스러운",
+          "audio": "abrupt\\abrupt_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "10",
+      "word": {
+        "text": "absent",
+        "audio": {
+          "matt": "absent\\absent_en_word_matt.mp3",
+          "danna": "absent\\absent_en_word_danna.mp3",
+          "clara": "absent\\absent_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "결석한, 부재중인",
+          "audio": "absent\\absent_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "11",
+      "word": {
+        "text": "absolute",
+        "audio": {
+          "matt": "absolute\\absolute_en_word_matt.mp3",
+          "danna": "absolute\\absolute_en_word_danna.mp3",
+          "clara": "absolute\\absolute_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "절대적인",
+          "audio": "absolute\\absolute_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "12",
+      "word": {
+        "text": "absorb",
+        "audio": {
+          "matt": "absorb\\absorb_en_word_matt.mp3",
+          "danna": "absorb\\absorb_en_word_danna.mp3",
+          "clara": "absorb\\absorb_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "흡수하다",
+          "audio": "absorb\\absorb_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "13",
+      "word": {
+        "text": "abstract",
+        "audio": {
+          "matt": "abstract\\abstract_en_word_matt.mp3",
+          "danna": "abstract\\abstract_en_word_danna.mp3",
+          "clara": "abstract\\abstract_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "추상적인",
+          "audio": "abstract\\abstract_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "14",
+      "word": {
+        "text": "absurd",
+        "audio": {
+          "matt": "absurd\\absurd_en_word_matt.mp3",
+          "danna": "absurd\\absurd_en_word_danna.mp3",
+          "clara": "absurd\\absurd_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "터무니없는",
+          "audio": "absurd\\absurd_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "15",
+      "word": {
+        "text": "abundant",
+        "audio": {
+          "matt": "abundant\\abundant_en_word_matt.mp3",
+          "danna": "abundant\\abundant_en_word_danna.mp3",
+          "clara": "abundant\\abundant_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "풍부한",
+          "audio": "abundant\\abundant_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "16",
+      "word": {
+        "text": "abuse",
+        "audio": {
+          "matt": "abuse\\abuse_en_word_matt.mp3",
+          "danna": "abuse\\abuse_en_word_danna.mp3",
+          "clara": "abuse\\abuse_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "남용하다, 학대하다",
+          "audio": "abuse\\abuse_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "17",
+      "word": {
+        "text": "academy",
+        "audio": {
+          "matt": "academy\\academy_en_word_matt.mp3",
+          "danna": "academy\\academy_en_word_danna.mp3",
+          "clara": "academy\\academy_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "학원, 학교",
+          "audio": "academy\\academy_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "18",
+      "word": {
+        "text": "accelerate",
+        "audio": {
+          "matt": "accelerate\\accelerate_en_word_matt.mp3",
+          "danna": "accelerate\\accelerate_en_word_danna.mp3",
+          "clara": "accelerate\\accelerate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "가속하다",
+          "audio": "accelerate\\accelerate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "19",
+      "word": {
+        "text": "accent",
+        "audio": {
+          "matt": "accent\\accent_en_word_matt.mp3",
+          "danna": "accent\\accent_en_word_danna.mp3",
+          "clara": "accent\\accent_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "억양, 강조",
+          "audio": "accent\\accent_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "20",
+      "word": {
+        "text": "accept",
+        "audio": {
+          "matt": "accept\\accept_en_word_matt.mp3",
+          "danna": "accept\\accept_en_word_danna.mp3",
+          "clara": "accept\\accept_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "받아들이다",
+          "audio": "accept\\accept_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "21",
+      "word": {
+        "text": "accommodate",
+        "audio": {
+          "matt": "accommodate\\accommodate_en_word_matt.mp3",
+          "danna": "accommodate\\accommodate_en_word_danna.mp3",
+          "clara": "accommodate\\accommodate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "수용하다",
+          "audio": "accommodate\\accommodate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "22",
+      "word": {
+        "text": "accompany",
+        "audio": {
+          "matt": "accompany\\accompany_en_word_matt.mp3",
+          "danna": "accompany\\accompany_en_word_danna.mp3",
+          "clara": "accompany\\accompany_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "동반하다",
+          "audio": "accompany\\accompany_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "23",
+      "word": {
+        "text": "accomplish",
+        "audio": {
+          "matt": "accomplish\\accomplish_en_word_matt.mp3",
+          "danna": "accomplish\\accomplish_en_word_danna.mp3",
+          "clara": "accomplish\\accomplish_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "성취하다",
+          "audio": "accomplish\\accomplish_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "24",
+      "word": {
+        "text": "accord",
+        "audio": {
+          "matt": "accord\\accord_en_word_matt.mp3",
+          "danna": "accord\\accord_en_word_danna.mp3",
+          "clara": "accord\\accord_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "일치하다",
+          "audio": "accord\\accord_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "25",
+      "word": {
+        "text": "account",
+        "audio": {
+          "matt": "account\\account_en_word_matt.mp3",
+          "danna": "account\\account_en_word_danna.mp3",
+          "clara": "account\\account_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "계정, 설명",
+          "audio": "account\\account_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "26",
+      "word": {
+        "text": "accumulate",
+        "audio": {
+          "matt": "accumulate\\accumulate_en_word_matt.mp3",
+          "danna": "accumulate\\accumulate_en_word_danna.mp3",
+          "clara": "accumulate\\accumulate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "축적하다",
+          "audio": "accumulate\\accumulate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "27",
+      "word": {
+        "text": "accurate",
+        "audio": {
+          "matt": "accurate\\accurate_en_word_matt.mp3",
+          "danna": "accurate\\accurate_en_word_danna.mp3",
+          "clara": "accurate\\accurate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "정확한",
+          "audio": "accurate\\accurate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "28",
+      "word": {
+        "text": "accuse",
+        "audio": {
+          "matt": "accuse\\accuse_en_word_matt.mp3",
+          "danna": "accuse\\accuse_en_word_danna.mp3",
+          "clara": "accuse\\accuse_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "고발하다",
+          "audio": "accuse\\accuse_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "29",
+      "word": {
+        "text": "achieve",
+        "audio": {
+          "matt": "achieve\\achieve_en_word_matt.mp3",
+          "danna": "achieve\\achieve_en_word_danna.mp3",
+          "clara": "achieve\\achieve_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "달성하다",
+          "audio": "achieve\\achieve_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "30",
+      "word": {
+        "text": "acid",
+        "audio": {
+          "matt": "acid\\acid_en_word_matt.mp3",
+          "danna": "acid\\acid_en_word_danna.mp3",
+          "clara": "acid\\acid_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "산성의",
+          "audio": "acid\\acid_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "31",
+      "word": {
+        "text": "acknowledge",
+        "audio": {
+          "matt": "acknowledge\\acknowledge_en_word_matt.mp3",
+          "danna": "acknowledge\\acknowledge_en_word_danna.mp3",
+          "clara": "acknowledge\\acknowledge_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "인정하다",
+          "audio": "acknowledge\\acknowledge_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "32",
+      "word": {
+        "text": "acquire",
+        "audio": {
+          "matt": "acquire\\acquire_en_word_matt.mp3",
+          "danna": "acquire\\acquire_en_word_danna.mp3",
+          "clara": "acquire\\acquire_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "획득하다",
+          "audio": "acquire\\acquire_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "33",
+      "word": {
+        "text": "acquisition",
+        "audio": {
+          "matt": "acquisition\\acquisition_en_word_matt.mp3",
+          "danna": "acquisition\\acquisition_en_word_danna.mp3",
+          "clara": "acquisition\\acquisition_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "획득, 습득",
+          "audio": "acquisition\\acquisition_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "34",
+      "word": {
+        "text": "adapt",
+        "audio": {
+          "matt": "adapt\\adapt_en_word_matt.mp3",
+          "danna": "adapt\\adapt_en_word_danna.mp3",
+          "clara": "adapt\\adapt_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "적응하다",
+          "audio": "adapt\\adapt_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "35",
+      "word": {
+        "text": "addict",
+        "audio": {
+          "matt": "addict\\addict_en_word_matt.mp3",
+          "danna": "addict\\addict_en_word_danna.mp3",
+          "clara": "addict\\addict_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "중독되다",
+          "audio": "addict\\addict_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "36",
+      "word": {
+        "text": "adequate",
+        "audio": {
+          "matt": "adequate\\adequate_en_word_matt.mp3",
+          "danna": "adequate\\adequate_en_word_danna.mp3",
+          "clara": "adequate\\adequate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "적절한",
+          "audio": "adequate\\adequate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "37",
+      "word": {
+        "text": "adhere",
+        "audio": {
+          "matt": "adhere\\adhere_en_word_matt.mp3",
+          "danna": "adhere\\adhere_en_word_danna.mp3",
+          "clara": "adhere\\adhere_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "고수하다",
+          "audio": "adhere\\adhere_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "38",
+      "word": {
+        "text": "adjust",
+        "audio": {
+          "matt": "adjust\\adjust_en_word_matt.mp3",
+          "danna": "adjust\\adjust_en_word_danna.mp3",
+          "clara": "adjust\\adjust_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "조정하다",
+          "audio": "adjust\\adjust_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "39",
+      "word": {
+        "text": "administer",
+        "audio": {
+          "matt": "administer\\administer_en_word_matt.mp3",
+          "danna": "administer\\administer_en_word_danna.mp3",
+          "clara": "administer\\administer_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "관리하다",
+          "audio": "administer\\administer_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "40",
+      "word": {
+        "text": "administration",
+        "audio": {
+          "matt": "administration\\administration_en_word_matt.mp3",
+          "danna": "administration\\administration_en_word_danna.mp3",
+          "clara": "administration\\administration_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "행정",
+          "audio": "administration\\administration_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "41",
+      "word": {
+        "text": "admire",
+        "audio": {
+          "matt": "admire\\admire_en_word_matt.mp3",
+          "danna": "admire\\admire_en_word_danna.mp3",
+          "clara": "admire\\admire_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "감탄하다",
+          "audio": "admire\\admire_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "42",
+      "word": {
+        "text": "admission",
+        "audio": {
+          "matt": "admission\\admission_en_word_matt.mp3",
+          "danna": "admission\\admission_en_word_danna.mp3",
+          "clara": "admission\\admission_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "입장, 입학",
+          "audio": "admission\\admission_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "43",
+      "word": {
+        "text": "admit",
+        "audio": {
+          "matt": "admit\\admit_en_word_matt.mp3",
+          "danna": "admit\\admit_en_word_danna.mp3",
+          "clara": "admit\\admit_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "인정하다",
+          "audio": "admit\\admit_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "44",
+      "word": {
+        "text": "adolescent",
+        "audio": {
+          "matt": "adolescent\\adolescent_en_word_matt.mp3",
+          "danna": "adolescent\\adolescent_en_word_danna.mp3",
+          "clara": "adolescent\\adolescent_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "청소년",
+          "audio": "adolescent\\adolescent_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "45",
+      "word": {
+        "text": "adopt",
+        "audio": {
+          "matt": "adopt\\adopt_en_word_matt.mp3",
+          "danna": "adopt\\adopt_en_word_danna.mp3",
+          "clara": "adopt\\adopt_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "채택하다",
+          "audio": "adopt\\adopt_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "46",
+      "word": {
+        "text": "advance",
+        "audio": {
+          "matt": "advance\\advance_en_word_matt.mp3",
+          "danna": "advance\\advance_en_word_danna.mp3",
+          "clara": "advance\\advance_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "진보하다",
+          "audio": "advance\\advance_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "47",
+      "word": {
+        "text": "advantage",
+        "audio": {
+          "matt": "advantage\\advantage_en_word_matt.mp3",
+          "danna": "advantage\\advantage_en_word_danna.mp3",
+          "clara": "advantage\\advantage_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "이점",
+          "audio": "advantage\\advantage_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "48",
+      "word": {
+        "text": "adventure",
+        "audio": {
+          "matt": "adventure\\adventure_en_word_matt.mp3",
+          "danna": "adventure\\adventure_en_word_danna.mp3",
+          "clara": "adventure\\adventure_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "모험",
+          "audio": "adventure\\adventure_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "49",
+      "word": {
+        "text": "adverse",
+        "audio": {
+          "matt": "adverse\\adverse_en_word_matt.mp3",
+          "danna": "adverse\\adverse_en_word_danna.mp3",
+          "clara": "adverse\\adverse_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "불리한",
+          "audio": "adverse\\adverse_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "50",
+      "word": {
+        "text": "advertise",
+        "audio": {
+          "matt": "advertise\\advertise_en_word_matt.mp3",
+          "danna": "advertise\\advertise_en_word_danna.mp3",
+          "clara": "advertise\\advertise_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "광고하다",
+          "audio": "advertise\\advertise_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "51",
+      "word": {
+        "text": "advice",
+        "audio": {
+          "matt": "advice\\advice_en_word_matt.mp3",
+          "danna": "advice\\advice_en_word_danna.mp3",
+          "clara": "advice\\advice_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "조언",
+          "audio": "advice\\advice_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "52",
+      "word": {
+        "text": "advise",
+        "audio": {
+          "matt": "advise\\advise_en_word_matt.mp3",
+          "danna": "advise\\advise_en_word_danna.mp3",
+          "clara": "advise\\advise_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "조언하다",
+          "audio": "advise\\advise_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "53",
+      "word": {
+        "text": "advocate",
+        "audio": {
+          "matt": "advocate\\advocate_en_word_matt.mp3",
+          "danna": "advocate\\advocate_en_word_danna.mp3",
+          "clara": "advocate\\advocate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "옹호하다",
+          "audio": "advocate\\advocate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "54",
+      "word": {
+        "text": "aesthetic",
+        "audio": {
+          "matt": "aesthetic\\aesthetic_en_word_matt.mp3",
+          "danna": "aesthetic\\aesthetic_en_word_danna.mp3",
+          "clara": "aesthetic\\aesthetic_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "미적인",
+          "audio": "aesthetic\\aesthetic_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "55",
+      "word": {
+        "text": "affair",
+        "audio": {
+          "matt": "affair\\affair_en_word_matt.mp3",
+          "danna": "affair\\affair_en_word_danna.mp3",
+          "clara": "affair\\affair_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "일, 사건",
+          "audio": "affair\\affair_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "56",
+      "word": {
+        "text": "affect",
+        "audio": {
+          "matt": "affect\\affect_en_word_matt.mp3",
+          "danna": "affect\\affect_en_word_danna.mp3",
+          "clara": "affect\\affect_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "영향을 미치다",
+          "audio": "affect\\affect_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "57",
+      "word": {
+        "text": "affection",
+        "audio": {
+          "matt": "affection\\affection_en_word_matt.mp3",
+          "danna": "affection\\affection_en_word_danna.mp3",
+          "clara": "affection\\affection_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "애정",
+          "audio": "affection\\affection_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "58",
+      "word": {
+        "text": "affirm",
+        "audio": {
+          "matt": "affirm\\affirm_en_word_matt.mp3",
+          "danna": "affirm\\affirm_en_word_danna.mp3",
+          "clara": "affirm\\affirm_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "확언하다",
+          "audio": "affirm\\affirm_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "59",
+      "word": {
+        "text": "afford",
+        "audio": {
+          "matt": "afford\\afford_en_word_matt.mp3",
+          "danna": "afford\\afford_en_word_danna.mp3",
+          "clara": "afford\\afford_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "여유가 있다",
+          "audio": "afford\\afford_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "60",
+      "word": {
+        "text": "agency",
+        "audio": {
+          "matt": "agency\\agency_en_word_matt.mp3",
+          "danna": "agency\\agency_en_word_danna.mp3",
+          "clara": "agency\\agency_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "대리점",
+          "audio": "agency\\agency_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "61",
+      "word": {
+        "text": "agenda",
+        "audio": {
+          "matt": "agenda\\agenda_en_word_matt.mp3",
+          "danna": "agenda\\agenda_en_word_danna.mp3",
+          "clara": "agenda\\agenda_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "의제",
+          "audio": "agenda\\agenda_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "62",
+      "word": {
+        "text": "aggress",
+        "audio": {
+          "matt": "aggress\\aggress_en_word_matt.mp3",
+          "danna": "aggress\\aggress_en_word_danna.mp3",
+          "clara": "aggress\\aggress_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "공격하다",
+          "audio": "aggress\\aggress_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "63",
+      "word": {
+        "text": "aggressive",
+        "audio": {
+          "matt": "aggressive\\aggressive_en_word_matt.mp3",
+          "danna": "aggressive\\aggressive_en_word_danna.mp3",
+          "clara": "aggressive\\aggressive_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "공격적인",
+          "audio": "aggressive\\aggressive_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "64",
+      "word": {
+        "text": "agriculture",
+        "audio": {
+          "matt": "agriculture\\agriculture_en_word_matt.mp3",
+          "danna": "agriculture\\agriculture_en_word_danna.mp3",
+          "clara": "agriculture\\agriculture_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "농업",
+          "audio": "agriculture\\agriculture_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "65",
+      "word": {
+        "text": "alert",
+        "audio": {
+          "matt": "alert\\alert_en_word_matt.mp3",
+          "danna": "alert\\alert_en_word_danna.mp3",
+          "clara": "alert\\alert_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "경계하는",
+          "audio": "alert\\alert_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "66",
+      "word": {
+        "text": "alien",
+        "audio": {
+          "matt": "alien\\alien_en_word_matt.mp3",
+          "danna": "alien\\alien_en_word_danna.mp3",
+          "clara": "alien\\alien_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "외계인, 이질적인",
+          "audio": "alien\\alien_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "67",
+      "word": {
+        "text": "alike",
+        "audio": {
+          "matt": "alike\\alike_en_word_matt.mp3",
+          "danna": "alike\\alike_en_word_danna.mp3",
+          "clara": "alike\\alike_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "비슷한",
+          "audio": "alike\\alike_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "68",
+      "word": {
+        "text": "allergy",
+        "audio": {
+          "matt": "allergy\\allergy_en_word_matt.mp3",
+          "danna": "allergy\\allergy_en_word_danna.mp3",
+          "clara": "allergy\\allergy_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "알레르기",
+          "audio": "allergy\\allergy_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "69",
+      "word": {
+        "text": "allocate",
+        "audio": {
+          "matt": "allocate\\allocate_en_word_matt.mp3",
+          "danna": "allocate\\allocate_en_word_danna.mp3",
+          "clara": "allocate\\allocate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "할당하다",
+          "audio": "allocate\\allocate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "70",
+      "word": {
+        "text": "ally",
+        "audio": {
+          "matt": "ally\\ally_en_word_matt.mp3",
+          "danna": "ally\\ally_en_word_danna.mp3",
+          "clara": "ally\\ally_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "동맹",
+          "audio": "ally\\ally_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "71",
+      "word": {
+        "text": "alongside",
+        "audio": {
+          "matt": "alongside\\alongside_en_word_matt.mp3",
+          "danna": "alongside\\alongside_en_word_danna.mp3",
+          "clara": "alongside\\alongside_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "옆에",
+          "audio": "alongside\\alongside_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "72",
+      "word": {
+        "text": "aloud",
+        "audio": {
+          "matt": "aloud\\aloud_en_word_matt.mp3",
+          "danna": "aloud\\aloud_en_word_danna.mp3",
+          "clara": "aloud\\aloud_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "소리내어",
+          "audio": "aloud\\aloud_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "73",
+      "word": {
+        "text": "alter",
+        "audio": {
+          "matt": "alter\\alter_en_word_matt.mp3",
+          "danna": "alter\\alter_en_word_danna.mp3",
+          "clara": "alter\\alter_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "변경하다",
+          "audio": "alter\\alter_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "74",
+      "word": {
+        "text": "alternate",
+        "audio": {
+          "matt": "alternate\\alternate_en_word_matt.mp3",
+          "danna": "alternate\\alternate_en_word_danna.mp3",
+          "clara": "alternate\\alternate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "교대의",
+          "audio": "alternate\\alternate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "75",
+      "word": {
+        "text": "alternative",
+        "audio": {
+          "matt": "alternative\\alternative_en_word_matt.mp3",
+          "danna": "alternative\\alternative_en_word_danna.mp3",
+          "clara": "alternative\\alternative_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "대안",
+          "audio": "alternative\\alternative_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "76",
+      "word": {
+        "text": "although",
+        "audio": {
+          "matt": "although\\although_en_word_matt.mp3",
+          "danna": "although\\although_en_word_danna.mp3",
+          "clara": "although\\although_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "비록 ~일지라도",
+          "audio": "although\\although_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "77",
+      "word": {
+        "text": "altitude",
+        "audio": {
+          "matt": "altitude\\altitude_en_word_matt.mp3",
+          "danna": "altitude\\altitude_en_word_danna.mp3",
+          "clara": "altitude\\altitude_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "고도",
+          "audio": "altitude\\altitude_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "78",
+      "word": {
+        "text": "altogether",
+        "audio": {
+          "matt": "altogether\\altogether_en_word_matt.mp3",
+          "danna": "altogether\\altogether_en_word_danna.mp3",
+          "clara": "altogether\\altogether_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "완전히",
+          "audio": "altogether\\altogether_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "79",
+      "word": {
+        "text": "amaze",
+        "audio": {
+          "matt": "amaze\\amaze_en_word_matt.mp3",
+          "danna": "amaze\\amaze_en_word_danna.mp3",
+          "clara": "amaze\\amaze_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "놀라게 하다",
+          "audio": "amaze\\amaze_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "80",
+      "word": {
+        "text": "ambassador",
+        "audio": {
+          "matt": "ambassador\\ambassador_en_word_matt.mp3",
+          "danna": "ambassador\\ambassador_en_word_danna.mp3",
+          "clara": "ambassador\\ambassador_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "대사",
+          "audio": "ambassador\\ambassador_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "81",
+      "word": {
+        "text": "ambition",
+        "audio": {
+          "matt": "ambition\\ambition_en_word_matt.mp3",
+          "danna": "ambition\\ambition_en_word_danna.mp3",
+          "clara": "ambition\\ambition_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "야망",
+          "audio": "ambition\\ambition_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "82",
+      "word": {
+        "text": "ambitious",
+        "audio": {
+          "matt": "ambitious\\ambitious_en_word_matt.mp3",
+          "danna": "ambitious\\ambitious_en_word_danna.mp3",
+          "clara": "ambitious\\ambitious_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "야심찬",
+          "audio": "ambitious\\ambitious_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "83",
+      "word": {
+        "text": "amend",
+        "audio": {
+          "matt": "amend\\amend_en_word_matt.mp3",
+          "danna": "amend\\amend_en_word_danna.mp3",
+          "clara": "amend\\amend_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "수정하다",
+          "audio": "amend\\amend_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "84",
+      "word": {
+        "text": "amuse",
+        "audio": {
+          "matt": "amuse\\amuse_en_word_matt.mp3",
+          "danna": "amuse\\amuse_en_word_danna.mp3",
+          "clara": "amuse\\amuse_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "즐겁게 하다",
+          "audio": "amuse\\amuse_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "85",
+      "word": {
+        "text": "analogy",
+        "audio": {
+          "matt": "analogy\\analogy_en_word_matt.mp3",
+          "danna": "analogy\\analogy_en_word_danna.mp3",
+          "clara": "analogy\\analogy_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "유사",
+          "audio": "analogy\\analogy_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "86",
+      "word": {
+        "text": "analysis",
+        "audio": {
+          "matt": "analysis\\analysis_en_word_matt.mp3",
+          "danna": "analysis\\analysis_en_word_danna.mp3",
+          "clara": "analysis\\analysis_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "분석",
+          "audio": "analysis\\analysis_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "87",
+      "word": {
+        "text": "analyze",
+        "audio": {
+          "matt": "analyze\\analyze_en_word_matt.mp3",
+          "danna": "analyze\\analyze_en_word_danna.mp3",
+          "clara": "analyze\\analyze_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "분석하다",
+          "audio": "analyze\\analyze_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "88",
+      "word": {
+        "text": "ancestor",
+        "audio": {
+          "matt": "ancestor\\ancestor_en_word_matt.mp3",
+          "danna": "ancestor\\ancestor_en_word_danna.mp3",
+          "clara": "ancestor\\ancestor_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "조상",
+          "audio": "ancestor\\ancestor_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "89",
+      "word": {
+        "text": "anchor",
+        "audio": {
+          "matt": "anchor\\anchor_en_word_matt.mp3",
+          "danna": "anchor\\anchor_en_word_danna.mp3",
+          "clara": "anchor\\anchor_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "닻",
+          "audio": "anchor\\anchor_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "90",
+      "word": {
+        "text": "ancient",
+        "audio": {
+          "matt": "ancient\\ancient_en_word_matt.mp3",
+          "danna": "ancient\\ancient_en_word_danna.mp3",
+          "clara": "ancient\\ancient_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "고대의",
+          "audio": "ancient\\ancient_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "91",
+      "word": {
+        "text": "anger",
+        "audio": {
+          "matt": "anger\\anger_en_word_matt.mp3",
+          "danna": "anger\\anger_en_word_danna.mp3",
+          "clara": "anger\\anger_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "분노",
+          "audio": "anger\\anger_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "92",
+      "word": {
+        "text": "anniversary",
+        "audio": {
+          "matt": "anniversary\\anniversary_en_word_matt.mp3",
+          "danna": "anniversary\\anniversary_en_word_danna.mp3",
+          "clara": "anniversary\\anniversary_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "기념일",
+          "audio": "anniversary\\anniversary_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "93",
+      "word": {
+        "text": "announce",
+        "audio": {
+          "matt": "announce\\announce_en_word_matt.mp3",
+          "danna": "announce\\announce_en_word_danna.mp3",
+          "clara": "announce\\announce_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "발표하다",
+          "audio": "announce\\announce_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "94",
+      "word": {
+        "text": "annoy",
+        "audio": {
+          "matt": "annoy\\annoy_en_word_matt.mp3",
+          "danna": "annoy\\annoy_en_word_danna.mp3",
+          "clara": "annoy\\annoy_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "성가시게 하다",
+          "audio": "annoy\\annoy_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "95",
+      "word": {
+        "text": "annual",
+        "audio": {
+          "matt": "annual\\annual_en_word_matt.mp3",
+          "danna": "annual\\annual_en_word_danna.mp3",
+          "clara": "annual\\annual_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "연간의",
+          "audio": "annual\\annual_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "96",
+      "word": {
+        "text": "anonymous",
+        "audio": {
+          "matt": "anonymous\\anonymous_en_word_matt.mp3",
+          "danna": "anonymous\\anonymous_en_word_danna.mp3",
+          "clara": "anonymous\\anonymous_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "익명의",
+          "audio": "anonymous\\anonymous_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "97",
+      "word": {
+        "text": "anticipate",
+        "audio": {
+          "matt": "anticipate\\anticipate_en_word_matt.mp3",
+          "danna": "anticipate\\anticipate_en_word_danna.mp3",
+          "clara": "anticipate\\anticipate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "예상하다",
+          "audio": "anticipate\\anticipate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "98",
+      "word": {
+        "text": "antique",
+        "audio": {
+          "matt": "antique\\antique_en_word_matt.mp3",
+          "danna": "antique\\antique_en_word_danna.mp3",
+          "clara": "antique\\antique_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "골동품",
+          "audio": "antique\\antique_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "99",
+      "word": {
+        "text": "anxiety",
+        "audio": {
+          "matt": "anxiety\\anxiety_en_word_matt.mp3",
+          "danna": "anxiety\\anxiety_en_word_danna.mp3",
+          "clara": "anxiety\\anxiety_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "불안",
+          "audio": "anxiety\\anxiety_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "100",
+      "word": {
+        "text": "anxious",
+        "audio": {
+          "matt": "anxious\\anxious_en_word_matt.mp3",
+          "danna": "anxious\\anxious_en_word_danna.mp3",
+          "clara": "anxious\\anxious_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "걱정하는",
+          "audio": "anxious\\anxious_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "101",
+      "word": {
+        "text": "apology",
+        "audio": {
+          "matt": "apology\\apology_en_word_matt.mp3",
+          "danna": "apology\\apology_en_word_danna.mp3",
+          "clara": "apology\\apology_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "사과",
+          "audio": "apology\\apology_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "102",
+      "word": {
+        "text": "apparent",
+        "audio": {
+          "matt": "apparent\\apparent_en_word_matt.mp3",
+          "danna": "apparent\\apparent_en_word_danna.mp3",
+          "clara": "apparent\\apparent_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "명백한",
+          "audio": "apparent\\apparent_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "103",
+      "word": {
+        "text": "appeal",
+        "audio": {
+          "matt": "appeal\\appeal_en_word_matt.mp3",
+          "danna": "appeal\\appeal_en_word_danna.mp3",
+          "clara": "appeal\\appeal_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "호소하다",
+          "audio": "appeal\\appeal_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "104",
+      "word": {
+        "text": "appear",
+        "audio": {
+          "matt": "appear\\appear_en_word_matt.mp3",
+          "danna": "appear\\appear_en_word_danna.mp3",
+          "clara": "appear\\appear_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "나타나다",
+          "audio": "appear\\appear_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "105",
+      "word": {
+        "text": "applause",
+        "audio": {
+          "matt": "applause\\applause_en_word_matt.mp3",
+          "danna": "applause\\applause_en_word_danna.mp3",
+          "clara": "applause\\applause_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "박수갈채",
+          "audio": "applause\\applause_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "106",
+      "word": {
+        "text": "applicant",
+        "audio": {
+          "matt": "applicant\\applicant_en_word_matt.mp3",
+          "danna": "applicant\\applicant_en_word_danna.mp3",
+          "clara": "applicant\\applicant_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "지원자",
+          "audio": "applicant\\applicant_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "107",
+      "word": {
+        "text": "appoint",
+        "audio": {
+          "matt": "appoint\\appoint_en_word_matt.mp3",
+          "danna": "appoint\\appoint_en_word_danna.mp3",
+          "clara": "appoint\\appoint_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "임명하다",
+          "audio": "appoint\\appoint_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "108",
+      "word": {
+        "text": "appreciate",
+        "audio": {
+          "matt": "appreciate\\appreciate_en_word_matt.mp3",
+          "danna": "appreciate\\appreciate_en_word_danna.mp3",
+          "clara": "appreciate\\appreciate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "감사하다",
+          "audio": "appreciate\\appreciate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "109",
+      "word": {
+        "text": "approach",
+        "audio": {
+          "matt": "approach\\approach_en_word_matt.mp3",
+          "danna": "approach\\approach_en_word_danna.mp3",
+          "clara": "approach\\approach_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "접근하다",
+          "audio": "approach\\approach_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "110",
+      "word": {
+        "text": "appropriate",
+        "audio": {
+          "matt": "appropriate\\appropriate_en_word_matt.mp3",
+          "danna": "appropriate\\appropriate_en_word_danna.mp3",
+          "clara": "appropriate\\appropriate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "적절한",
+          "audio": "appropriate\\appropriate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "111",
+      "word": {
+        "text": "approve",
+        "audio": {
+          "matt": "approve\\approve_en_word_matt.mp3",
+          "danna": "approve\\approve_en_word_danna.mp3",
+          "clara": "approve\\approve_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "승인하다",
+          "audio": "approve\\approve_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "112",
+      "word": {
+        "text": "approximate",
+        "audio": {
+          "matt": "approximate\\approximate_en_word_matt.mp3",
+          "danna": "approximate\\approximate_en_word_danna.mp3",
+          "clara": "approximate\\approximate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "대략의",
+          "audio": "approximate\\approximate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "113",
+      "word": {
+        "text": "architect",
+        "audio": {
+          "matt": "architect\\architect_en_word_matt.mp3",
+          "danna": "architect\\architect_en_word_danna.mp3",
+          "clara": "architect\\architect_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "건축가",
+          "audio": "architect\\architect_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "114",
+      "word": {
+        "text": "architecture",
+        "audio": {
+          "matt": "architecture\\architecture_en_word_matt.mp3",
+          "danna": "architecture\\architecture_en_word_danna.mp3",
+          "clara": "architecture\\architecture_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "건축",
+          "audio": "architecture\\architecture_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "115",
+      "word": {
+        "text": "arctic",
+        "audio": {
+          "matt": "arctic\\arctic_en_word_matt.mp3",
+          "danna": "arctic\\arctic_en_word_danna.mp3",
+          "clara": "arctic\\arctic_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "북극의",
+          "audio": "arctic\\arctic_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "116",
+      "word": {
+        "text": "argue",
+        "audio": {
+          "matt": "argue\\argue_en_word_matt.mp3",
+          "danna": "argue\\argue_en_word_danna.mp3",
+          "clara": "argue\\argue_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "논쟁하다",
+          "audio": "argue\\argue_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "117",
+      "word": {
+        "text": "arise",
+        "audio": {
+          "matt": "arise\\arise_en_word_matt.mp3",
+          "danna": "arise\\arise_en_word_danna.mp3",
+          "clara": "arise\\arise_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "발생하다",
+          "audio": "arise\\arise_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "118",
+      "word": {
+        "text": "arrange",
+        "audio": {
+          "matt": "arrange\\arrange_en_word_matt.mp3",
+          "danna": "arrange\\arrange_en_word_danna.mp3",
+          "clara": "arrange\\arrange_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "정리하다",
+          "audio": "arrange\\arrange_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "119",
+      "word": {
+        "text": "arrest",
+        "audio": {
+          "matt": "arrest\\arrest_en_word_matt.mp3",
+          "danna": "arrest\\arrest_en_word_danna.mp3",
+          "clara": "arrest\\arrest_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "체포하다",
+          "audio": "arrest\\arrest_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "120",
+      "word": {
+        "text": "arrogant",
+        "audio": {
+          "matt": "arrogant\\arrogant_en_word_matt.mp3",
+          "danna": "arrogant\\arrogant_en_word_danna.mp3",
+          "clara": "arrogant\\arrogant_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "거만한",
+          "audio": "arrogant\\arrogant_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "121",
+      "word": {
+        "text": "arrow",
+        "audio": {
+          "matt": "arrow\\arrow_en_word_matt.mp3",
+          "danna": "arrow\\arrow_en_word_danna.mp3",
+          "clara": "arrow\\arrow_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "화살",
+          "audio": "arrow\\arrow_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "122",
+      "word": {
+        "text": "artery",
+        "audio": {
+          "matt": "artery\\artery_en_word_matt.mp3",
+          "danna": "artery\\artery_en_word_danna.mp3",
+          "clara": "artery\\artery_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "동맥",
+          "audio": "artery\\artery_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "123",
+      "word": {
+        "text": "article",
+        "audio": {
+          "matt": "article\\article_en_word_matt.mp3",
+          "danna": "article\\article_en_word_danna.mp3",
+          "clara": "article\\article_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "기사",
+          "audio": "article\\article_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "124",
+      "word": {
+        "text": "artifice",
+        "audio": {
+          "matt": "artifice\\artifice_en_word_matt.mp3",
+          "danna": "artifice\\artifice_en_word_danna.mp3",
+          "clara": "artifice\\artifice_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "기교",
+          "audio": "artifice\\artifice_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "125",
+      "word": {
+        "text": "artificial",
+        "audio": {
+          "matt": "artificial\\artificial_en_word_matt.mp3",
+          "danna": "artificial\\artificial_en_word_danna.mp3",
+          "clara": "artificial\\artificial_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "인공적인",
+          "audio": "artificial\\artificial_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "126",
+      "word": {
+        "text": "aside",
+        "audio": {
+          "matt": "aside\\aside_en_word_matt.mp3",
+          "danna": "aside\\aside_en_word_danna.mp3",
+          "clara": "aside\\aside_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "옆으로",
+          "audio": "aside\\aside_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "127",
+      "word": {
+        "text": "asleep",
+        "audio": {
+          "matt": "asleep\\asleep_en_word_matt.mp3",
+          "danna": "asleep\\asleep_en_word_danna.mp3",
+          "clara": "asleep\\asleep_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "잠든",
+          "audio": "asleep\\asleep_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "128",
+      "word": {
+        "text": "aspect",
+        "audio": {
+          "matt": "aspect\\aspect_en_word_matt.mp3",
+          "danna": "aspect\\aspect_en_word_danna.mp3",
+          "clara": "aspect\\aspect_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "측면",
+          "audio": "aspect\\aspect_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "129",
+      "word": {
+        "text": "aspire",
+        "audio": {
+          "matt": "aspire\\aspire_en_word_matt.mp3",
+          "danna": "aspire\\aspire_en_word_danna.mp3",
+          "clara": "aspire\\aspire_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "열망하다",
+          "audio": "aspire\\aspire_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "130",
+      "word": {
+        "text": "assault",
+        "audio": {
+          "matt": "assault\\assault_en_word_matt.mp3",
+          "danna": "assault\\assault_en_word_danna.mp3",
+          "clara": "assault\\assault_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "공격",
+          "audio": "assault\\assault_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "131",
+      "word": {
+        "text": "assemble",
+        "audio": {
+          "matt": "assemble\\assemble_en_word_matt.mp3",
+          "danna": "assemble\\assemble_en_word_danna.mp3",
+          "clara": "assemble\\assemble_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "모으다",
+          "audio": "assemble\\assemble_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "132",
+      "word": {
+        "text": "assert",
+        "audio": {
+          "matt": "assert\\assert_en_word_matt.mp3",
+          "danna": "assert\\assert_en_word_danna.mp3",
+          "clara": "assert\\assert_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "주장하다",
+          "audio": "assert\\assert_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "133",
+      "word": {
+        "text": "assess",
+        "audio": {
+          "matt": "assess\\assess_en_word_matt.mp3",
+          "danna": "assess\\assess_en_word_danna.mp3",
+          "clara": "assess\\assess_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "평가하다",
+          "audio": "assess\\assess_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "134",
+      "word": {
+        "text": "asset",
+        "audio": {
+          "matt": "asset\\asset_en_word_matt.mp3",
+          "danna": "asset\\asset_en_word_danna.mp3",
+          "clara": "asset\\asset_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "자산",
+          "audio": "asset\\asset_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "135",
+      "word": {
+        "text": "assign",
+        "audio": {
+          "matt": "assign\\assign_en_word_matt.mp3",
+          "danna": "assign\\assign_en_word_danna.mp3",
+          "clara": "assign\\assign_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "할당하다",
+          "audio": "assign\\assign_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "136",
+      "word": {
+        "text": "assignment",
+        "audio": {
+          "matt": "assignment\\assignment_en_word_matt.mp3",
+          "danna": "assignment\\assignment_en_word_danna.mp3",
+          "clara": "assignment\\assignment_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "과제",
+          "audio": "assignment\\assignment_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "137",
+      "word": {
+        "text": "assist",
+        "audio": {
+          "matt": "assist\\assist_en_word_matt.mp3",
+          "danna": "assist\\assist_en_word_danna.mp3",
+          "clara": "assist\\assist_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "돕다",
+          "audio": "assist\\assist_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "138",
+      "word": {
+        "text": "assistant",
+        "audio": {
+          "matt": "assistant\\assistant_en_word_matt.mp3",
+          "danna": "assistant\\assistant_en_word_danna.mp3",
+          "clara": "assistant\\assistant_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "조수",
+          "audio": "assistant\\assistant_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "139",
+      "word": {
+        "text": "associate",
+        "audio": {
+          "matt": "associate\\associate_en_word_matt.mp3",
+          "danna": "associate\\associate_en_word_danna.mp3",
+          "clara": "associate\\associate_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "연관시키다",
+          "audio": "associate\\associate_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "140",
+      "word": {
+        "text": "assume",
+        "audio": {
+          "matt": "assume\\assume_en_word_matt.mp3",
+          "danna": "assume\\assume_en_word_danna.mp3",
+          "clara": "assume\\assume_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "가정하다",
+          "audio": "assume\\assume_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "141",
+      "word": {
+        "text": "assure",
+        "audio": {
+          "matt": "assure\\assure_en_word_matt.mp3",
+          "danna": "assure\\assure_en_word_danna.mp3",
+          "clara": "assure\\assure_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "확신시키다",
+          "audio": "assure\\assure_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "142",
+      "word": {
+        "text": "astonish",
+        "audio": {
+          "matt": "astonish\\astonish_en_word_matt.mp3",
+          "danna": "astonish\\astonish_en_word_danna.mp3",
+          "clara": "astonish\\astonish_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "놀라게 하다",
+          "audio": "astonish\\astonish_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "143",
+      "word": {
+        "text": "athlete",
+        "audio": {
+          "matt": "athlete\\athlete_en_word_matt.mp3",
+          "danna": "athlete\\athlete_en_word_danna.mp3",
+          "clara": "athlete\\athlete_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "운동선수",
+          "audio": "athlete\\athlete_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "144",
+      "word": {
+        "text": "atmosphere",
+        "audio": {
+          "matt": "atmosphere\\atmosphere_en_word_matt.mp3",
+          "danna": "atmosphere\\atmosphere_en_word_danna.mp3",
+          "clara": "atmosphere\\atmosphere_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "대기",
+          "audio": "atmosphere\\atmosphere_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "145",
+      "word": {
+        "text": "atom",
+        "audio": {
+          "matt": "atom\\atom_en_word_matt.mp3",
+          "danna": "atom\\atom_en_word_danna.mp3",
+          "clara": "atom\\atom_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "원자",
+          "audio": "atom\\atom_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "146",
+      "word": {
+        "text": "attach",
+        "audio": {
+          "matt": "attach\\attach_en_word_matt.mp3",
+          "danna": "attach\\attach_en_word_danna.mp3",
+          "clara": "attach\\attach_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "부착하다",
+          "audio": "attach\\attach_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "147",
+      "word": {
+        "text": "attain",
+        "audio": {
+          "matt": "attain\\attain_en_word_matt.mp3",
+          "danna": "attain\\attain_en_word_danna.mp3",
+          "clara": "attain\\attain_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "달성하다",
+          "audio": "attain\\attain_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "148",
+      "word": {
+        "text": "attempt",
+        "audio": {
+          "matt": "attempt\\attempt_en_word_matt.mp3",
+          "danna": "attempt\\attempt_en_word_danna.mp3",
+          "clara": "attempt\\attempt_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "시도하다",
+          "audio": "attempt\\attempt_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "149",
+      "word": {
+        "text": "attend",
+        "audio": {
+          "matt": "attend\\attend_en_word_matt.mp3",
+          "danna": "attend\\attend_en_word_danna.mp3",
+          "clara": "attend\\attend_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "참석하다",
+          "audio": "attend\\attend_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "150",
+      "word": {
+        "text": "attention",
+        "audio": {
+          "matt": "attention\\attention_en_word_matt.mp3",
+          "danna": "attention\\attention_en_word_danna.mp3",
+          "clara": "attention\\attention_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "주의",
+          "audio": "attention\\attention_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "151",
+      "word": {
+        "text": "attitude",
+        "audio": {
+          "matt": "attitude\\attitude_en_word_matt.mp3",
+          "danna": "attitude\\attitude_en_word_danna.mp3",
+          "clara": "attitude\\attitude_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "태도",
+          "audio": "attitude\\attitude_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "152",
+      "word": {
+        "text": "attorney",
+        "audio": {
+          "matt": "attorney\\attorney_en_word_matt.mp3",
+          "danna": "attorney\\attorney_en_word_danna.mp3",
+          "clara": "attorney\\attorney_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "변호사",
+          "audio": "attorney\\attorney_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "153",
+      "word": {
+        "text": "attract",
+        "audio": {
+          "matt": "attract\\attract_en_word_matt.mp3",
+          "danna": "attract\\attract_en_word_danna.mp3",
+          "clara": "attract\\attract_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "끌어당기다",
+          "audio": "attract\\attract_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "154",
+      "word": {
+        "text": "attribute",
+        "audio": {
+          "matt": "attribute\\attribute_en_word_matt.mp3",
+          "danna": "attribute\\attribute_en_word_danna.mp3",
+          "clara": "attribute\\attribute_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "속성",
+          "audio": "attribute\\attribute_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "155",
+      "word": {
+        "text": "auction",
+        "audio": {
+          "matt": "auction\\auction_en_word_matt.mp3",
+          "danna": "auction\\auction_en_word_danna.mp3",
+          "clara": "auction\\auction_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "경매",
+          "audio": "auction\\auction_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "156",
+      "word": {
+        "text": "audience",
+        "audio": {
+          "matt": "audience\\audience_en_word_matt.mp3",
+          "danna": "audience\\audience_en_word_danna.mp3",
+          "clara": "audience\\audience_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "청중",
+          "audio": "audience\\audience_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "157",
+      "word": {
+        "text": "authentic",
+        "audio": {
+          "matt": "authentic\\authentic_en_word_matt.mp3",
+          "danna": "authentic\\authentic_en_word_danna.mp3",
+          "clara": "authentic\\authentic_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "진정한",
+          "audio": "authentic\\authentic_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "158",
+      "word": {
+        "text": "author",
+        "audio": {
+          "matt": "author\\author_en_word_matt.mp3",
+          "danna": "author\\author_en_word_danna.mp3",
+          "clara": "author\\author_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "작가",
+          "audio": "author\\author_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "159",
+      "word": {
+        "text": "automatic",
+        "audio": {
+          "matt": "automatic\\automatic_en_word_matt.mp3",
+          "danna": "automatic\\automatic_en_word_danna.mp3",
+          "clara": "automatic\\automatic_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "자동의",
+          "audio": "automatic\\automatic_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "160",
+      "word": {
+        "text": "autonomy",
+        "audio": {
+          "matt": "autonomy\\autonomy_en_word_matt.mp3",
+          "danna": "autonomy\\autonomy_en_word_danna.mp3",
+          "clara": "autonomy\\autonomy_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "자율성",
+          "audio": "autonomy\\autonomy_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "161",
+      "word": {
+        "text": "avail",
+        "audio": {
+          "matt": "avail\\avail_en_word_matt.mp3",
+          "danna": "avail\\avail_en_word_danna.mp3",
+          "clara": "avail\\avail_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "이용하다",
+          "audio": "avail\\avail_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "162",
+      "word": {
+        "text": "available",
+        "audio": {
+          "matt": "available\\available_en_word_matt.mp3",
+          "danna": "available\\available_en_word_danna.mp3",
+          "clara": "available\\available_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "이용가능한",
+          "audio": "available\\available_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "163",
+      "word": {
+        "text": "average",
+        "audio": {
+          "matt": "average\\average_en_word_matt.mp3",
+          "danna": "average\\average_en_word_danna.mp3",
+          "clara": "average\\average_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "평균의",
+          "audio": "average\\average_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "164",
+      "word": {
+        "text": "await",
+        "audio": {
+          "matt": "await\\await_en_word_matt.mp3",
+          "danna": "await\\await_en_word_danna.mp3",
+          "clara": "await\\await_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "기다리다",
+          "audio": "await\\await_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "165",
+      "word": {
+        "text": "awake",
+        "audio": {
+          "matt": "awake\\awake_en_word_matt.mp3",
+          "danna": "awake\\awake_en_word_danna.mp3",
+          "clara": "awake\\awake_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "깨어있는",
+          "audio": "awake\\awake_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "166",
+      "word": {
+        "text": "aware",
+        "audio": {
+          "matt": "aware\\aware_en_word_matt.mp3",
+          "danna": "aware\\aware_en_word_danna.mp3",
+          "clara": "aware\\aware_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "알고 있는",
+          "audio": "aware\\aware_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "167",
+      "word": {
+        "text": "awe",
+        "audio": {
+          "matt": "awe\\awe_en_word_matt.mp3",
+          "danna": "awe\\awe_en_word_danna.mp3",
+          "clara": "awe\\awe_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "경외",
+          "audio": "awe\\awe_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "168",
+      "word": {
+        "text": "awful",
+        "audio": {
+          "matt": "awful\\awful_en_word_matt.mp3",
+          "danna": "awful\\awful_en_word_danna.mp3",
+          "clara": "awful\\awful_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "끔찍한",
+          "audio": "awful\\awful_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "169",
+      "word": {
+        "text": "awkward",
+        "audio": {
+          "matt": "awkward\\awkward_en_word_matt.mp3",
+          "danna": "awkward\\awkward_en_word_danna.mp3",
+          "clara": "awkward\\awkward_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "어색한",
+          "audio": "awkward\\awkward_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "170",
+      "word": {
+        "text": "balloon",
+        "audio": {
+          "matt": "balloon\\balloon_en_word_matt.mp3",
+          "danna": "balloon\\balloon_en_word_danna.mp3",
+          "clara": "balloon\\balloon_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "풍선",
+          "audio": "balloon\\balloon_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "171",
+      "word": {
+        "text": "ban",
+        "audio": {
+          "matt": "ban\\ban_en_word_matt.mp3",
+          "danna": "ban\\ban_en_word_danna.mp3",
+          "clara": "ban\\ban_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "금지하다",
+          "audio": "ban\\ban_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "172",
+      "word": {
+        "text": "bankrupt",
+        "audio": {
+          "matt": "bankrupt\\bankrupt_en_word_matt.mp3",
+          "danna": "bankrupt\\bankrupt_en_word_danna.mp3",
+          "clara": "bankrupt\\bankrupt_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "파산한",
+          "audio": "bankrupt\\bankrupt_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "173",
+      "word": {
+        "text": "bargain",
+        "audio": {
+          "matt": "bargain\\bargain_en_word_matt.mp3",
+          "danna": "bargain\\bargain_en_word_danna.mp3",
+          "clara": "bargain\\bargain_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "거래",
+          "audio": "bargain\\bargain_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "174",
+      "word": {
+        "text": "bark",
+        "audio": {
+          "matt": "bark\\bark_en_word_matt.mp3",
+          "danna": "bark\\bark_en_word_danna.mp3",
+          "clara": "bark\\bark_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "짖다",
+          "audio": "bark\\bark_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "175",
+      "word": {
+        "text": "barrier",
+        "audio": {
+          "matt": "barrier\\barrier_en_word_matt.mp3",
+          "danna": "barrier\\barrier_en_word_danna.mp3",
+          "clara": "barrier\\barrier_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "장벽",
+          "audio": "barrier\\barrier_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "176",
+      "word": {
+        "text": "barter",
+        "audio": {
+          "matt": "barter\\barter_en_word_matt.mp3",
+          "danna": "barter\\barter_en_word_danna.mp3",
+          "clara": "barter\\barter_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "물물교환",
+          "audio": "barter\\barter_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "177",
+      "word": {
+        "text": "battle",
+        "audio": {
+          "matt": "battle\\battle_en_word_matt.mp3",
+          "danna": "battle\\battle_en_word_danna.mp3",
+          "clara": "battle\\battle_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "전투",
+          "audio": "battle\\battle_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "178",
+      "word": {
+        "text": "bazaar",
+        "audio": {
+          "matt": "bazaar\\bazaar_en_word_matt.mp3",
+          "danna": "bazaar\\bazaar_en_word_danna.mp3",
+          "clara": "bazaar\\bazaar_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "시장",
+          "audio": "bazaar\\bazaar_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "179",
+      "word": {
+        "text": "beam",
+        "audio": {
+          "matt": "beam\\beam_en_word_matt.mp3",
+          "danna": "beam\\beam_en_word_danna.mp3",
+          "clara": "beam\\beam_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "빔",
+          "audio": "beam\\beam_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "180",
+      "word": {
+        "text": "beard",
+        "audio": {
+          "matt": "beard\\beard_en_word_matt.mp3",
+          "danna": "beard\\beard_en_word_danna.mp3",
+          "clara": "beard\\beard_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "수염",
+          "audio": "beard\\beard_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "181",
+      "word": {
+        "text": "beast",
+        "audio": {
+          "matt": "beast\\beast_en_word_matt.mp3",
+          "danna": "beast\\beast_en_word_danna.mp3",
+          "clara": "beast\\beast_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "짐승",
+          "audio": "beast\\beast_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "182",
+      "word": {
+        "text": "behalf",
+        "audio": {
+          "matt": "behalf\\behalf_en_word_matt.mp3",
+          "danna": "behalf\\behalf_en_word_danna.mp3",
+          "clara": "behalf\\behalf_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "대신하여",
+          "audio": "behalf\\behalf_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "183",
+      "word": {
+        "text": "behave",
+        "audio": {
+          "matt": "behave\\behave_en_word_matt.mp3",
+          "danna": "behave\\behave_en_word_danna.mp3",
+          "clara": "behave\\behave_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "행동하다",
+          "audio": "behave\\behave_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "184",
+      "word": {
+        "text": "behavior",
+        "audio": {
+          "matt": "behavior\\behavior_en_word_matt.mp3",
+          "danna": "behavior\\behavior_en_word_danna.mp3",
+          "clara": "behavior\\behavior_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "행동",
+          "audio": "behavior\\behavior_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "185",
+      "word": {
+        "text": "belief",
+        "audio": {
+          "matt": "belief\\belief_en_word_matt.mp3",
+          "danna": "belief\\belief_en_word_danna.mp3",
+          "clara": "belief\\belief_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "신념",
+          "audio": "belief\\belief_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "186",
+      "word": {
+        "text": "belong",
+        "audio": {
+          "matt": "belong\\belong_en_word_matt.mp3",
+          "danna": "belong\\belong_en_word_danna.mp3",
+          "clara": "belong\\belong_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "속하다",
+          "audio": "belong\\belong_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "187",
+      "word": {
+        "text": "beneath",
+        "audio": {
+          "matt": "beneath\\beneath_en_word_matt.mp3",
+          "danna": "beneath\\beneath_en_word_danna.mp3",
+          "clara": "beneath\\beneath_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "아래에",
+          "audio": "beneath\\beneath_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "188",
+      "word": {
+        "text": "benefit",
+        "audio": {
+          "matt": "benefit\\benefit_en_word_matt.mp3",
+          "danna": "benefit\\benefit_en_word_danna.mp3",
+          "clara": "benefit\\benefit_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "이익",
+          "audio": "benefit\\benefit_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "189",
+      "word": {
+        "text": "betray",
+        "audio": {
+          "matt": "betray\\betray_en_word_matt.mp3",
+          "danna": "betray\\betray_en_word_danna.mp3",
+          "clara": "betray\\betray_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "배신하다",
+          "audio": "betray\\betray_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "190",
+      "word": {
+        "text": "beware",
+        "audio": {
+          "matt": "beware\\beware_en_word_matt.mp3",
+          "danna": "beware\\beware_en_word_danna.mp3",
+          "clara": "beware\\beware_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "조심하다",
+          "audio": "beware\\beware_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "191",
+      "word": {
+        "text": "bias",
+        "audio": {
+          "matt": "bias\\bias_en_word_matt.mp3",
+          "danna": "bias\\bias_en_word_danna.mp3",
+          "clara": "bias\\bias_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "편견",
+          "audio": "bias\\bias_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "192",
+      "word": {
+        "text": "bid",
+        "audio": {
+          "matt": "bid\\bid_en_word_matt.mp3",
+          "danna": "bid\\bid_en_word_danna.mp3",
+          "clara": "bid\\bid_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "입찰",
+          "audio": "bid\\bid_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "193",
+      "word": {
+        "text": "billion",
+        "audio": {
+          "matt": "billion\\billion_en_word_matt.mp3",
+          "danna": "billion\\billion_en_word_danna.mp3",
+          "clara": "billion\\billion_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "십억",
+          "audio": "billion\\billion_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "194",
+      "word": {
+        "text": "bind",
+        "audio": {
+          "matt": "bind\\bind_en_word_matt.mp3",
+          "danna": "bind\\bind_en_word_danna.mp3",
+          "clara": "bind\\bind_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "묶다",
+          "audio": "bind\\bind_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "195",
+      "word": {
+        "text": "biography",
+        "audio": {
+          "matt": "biography\\biography_en_word_matt.mp3",
+          "danna": "biography\\biography_en_word_danna.mp3",
+          "clara": "biography\\biography_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "전기",
+          "audio": "biography\\biography_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "196",
+      "word": {
+        "text": "biology",
+        "audio": {
+          "matt": "biology\\biology_en_word_matt.mp3",
+          "danna": "biology\\biology_en_word_danna.mp3",
+          "clara": "biology\\biology_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "생물학",
+          "audio": "biology\\biology_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "197",
+      "word": {
+        "text": "bitter",
+        "audio": {
+          "matt": "bitter\\bitter_en_word_matt.mp3",
+          "danna": "bitter\\bitter_en_word_danna.mp3",
+          "clara": "bitter\\bitter_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "쓴",
+          "audio": "bitter\\bitter_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "198",
+      "word": {
+        "text": "blame",
+        "audio": {
+          "matt": "blame\\blame_en_word_matt.mp3",
+          "danna": "blame\\blame_en_word_danna.mp3",
+          "clara": "blame\\blame_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "비난하다",
+          "audio": "blame\\blame_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "199",
+      "word": {
+        "text": "blank",
+        "audio": {
+          "matt": "blank\\blank_en_word_matt.mp3",
+          "danna": "blank\\blank_en_word_danna.mp3",
+          "clara": "blank\\blank_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "공백의",
+          "audio": "blank\\blank_kr_trans_nara.mp3"
+        }
+      }
+    },
+    {
+      "id": "200",
+      "word": {
+        "text": "blast",
+        "audio": {
+          "matt": "blast\\blast_en_word_matt.mp3",
+          "danna": "blast\\blast_en_word_danna.mp3",
+          "clara": "blast\\blast_en_word_clara.mp3"
+        },
+        "translation": {
+          "text": "폭발",
+          "audio": "blast\\blast_kr_trans_nara.mp3"
+        }
+      }
+    }
+  ]
+}
