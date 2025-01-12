@@ -1,0 +1,2215 @@
+{
+  "words": [
+    {
+      "word": "myth",
+      "audio": {
+        "en": {
+          "matt": "myth\\myth_en_word_matt.mp3",
+          "danna": "myth\\myth_en_word_danna.mp3",
+          "clara": "myth\\myth_en_word_clara.mp3"
+        },
+        "kr": "myth\\myth_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "naive",
+      "audio": {
+        "en": {
+          "matt": "naive\\naive_en_word_matt.mp3",
+          "danna": "naive\\naive_en_word_danna.mp3",
+          "clara": "naive\\naive_en_word_clara.mp3"
+        },
+        "kr": "naive\\naive_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "naked",
+      "audio": {
+        "en": {
+          "matt": "naked\\naked_en_word_matt.mp3",
+          "danna": "naked\\naked_en_word_danna.mp3",
+          "clara": "naked\\naked_en_word_clara.mp3"
+        },
+        "kr": "naked\\naked_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "narrate",
+      "audio": {
+        "en": {
+          "matt": "narrate\\narrate_en_word_matt.mp3",
+          "danna": "narrate\\narrate_en_word_danna.mp3",
+          "clara": "narrate\\narrate_en_word_clara.mp3"
+        },
+        "kr": "narrate\\narrate_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "narrative",
+      "audio": {
+        "en": {
+          "matt": "narrative\\narrative_en_word_matt.mp3",
+          "danna": "narrative\\narrative_en_word_danna.mp3",
+          "clara": "narrative\\narrative_en_word_clara.mp3"
+        },
+        "kr": "narrative\\narrative_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nasty",
+      "audio": {
+        "en": {
+          "matt": "nasty\\nasty_en_word_matt.mp3",
+          "danna": "nasty\\nasty_en_word_danna.mp3",
+          "clara": "nasty\\nasty_en_word_clara.mp3"
+        },
+        "kr": "nasty\\nasty_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "native",
+      "audio": {
+        "en": {
+          "matt": "native\\native_en_word_matt.mp3",
+          "danna": "native\\native_en_word_danna.mp3",
+          "clara": "native\\native_en_word_clara.mp3"
+        },
+        "kr": "native\\native_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "neat",
+      "audio": {
+        "en": {
+          "matt": "neat\\neat_en_word_matt.mp3",
+          "danna": "neat\\neat_en_word_danna.mp3",
+          "clara": "neat\\neat_en_word_clara.mp3"
+        },
+        "kr": "neat\\neat_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "necessary",
+      "audio": {
+        "en": {
+          "matt": "necessary\\necessary_en_word_matt.mp3",
+          "danna": "necessary\\necessary_en_word_danna.mp3",
+          "clara": "necessary\\necessary_en_word_clara.mp3"
+        },
+        "kr": "necessary\\necessary_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "needle",
+      "audio": {
+        "en": {
+          "matt": "needle\\needle_en_word_matt.mp3",
+          "danna": "needle\\needle_en_word_danna.mp3",
+          "clara": "needle\\needle_en_word_clara.mp3"
+        },
+        "kr": "needle\\needle_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "negate",
+      "audio": {
+        "en": {
+          "matt": "negate\\negate_en_word_matt.mp3",
+          "danna": "negate\\negate_en_word_danna.mp3",
+          "clara": "negate\\negate_en_word_clara.mp3"
+        },
+        "kr": "negate\\negate_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "negative",
+      "audio": {
+        "en": {
+          "matt": "negative\\negative_en_word_matt.mp3",
+          "danna": "negative\\negative_en_word_danna.mp3",
+          "clara": "negative\\negative_en_word_clara.mp3"
+        },
+        "kr": "negative\\negative_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "neglect",
+      "audio": {
+        "en": {
+          "matt": "neglect\\neglect_en_word_matt.mp3",
+          "danna": "neglect\\neglect_en_word_danna.mp3",
+          "clara": "neglect\\neglect_en_word_clara.mp3"
+        },
+        "kr": "neglect\\neglect_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "negotiate",
+      "audio": {
+        "en": {
+          "matt": "negotiate\\negotiate_en_word_matt.mp3",
+          "danna": "negotiate\\negotiate_en_word_danna.mp3",
+          "clara": "negotiate\\negotiate_en_word_clara.mp3"
+        },
+        "kr": "negotiate\\negotiate_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "neither",
+      "audio": {
+        "en": {
+          "matt": "neither\\neither_en_word_matt.mp3",
+          "danna": "neither\\neither_en_word_danna.mp3",
+          "clara": "neither\\neither_en_word_clara.mp3"
+        },
+        "kr": "neither\\neither_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nephew",
+      "audio": {
+        "en": {
+          "matt": "nephew\\nephew_en_word_matt.mp3",
+          "danna": "nephew\\nephew_en_word_danna.mp3",
+          "clara": "nephew\\nephew_en_word_clara.mp3"
+        },
+        "kr": "nephew\\nephew_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nerve",
+      "audio": {
+        "en": {
+          "matt": "nerve\\nerve_en_word_matt.mp3",
+          "danna": "nerve\\nerve_en_word_danna.mp3",
+          "clara": "nerve\\nerve_en_word_clara.mp3"
+        },
+        "kr": "nerve\\nerve_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "neutral",
+      "audio": {
+        "en": {
+          "matt": "neutral\\neutral_en_word_matt.mp3",
+          "danna": "neutral\\neutral_en_word_danna.mp3",
+          "clara": "neutral\\neutral_en_word_clara.mp3"
+        },
+        "kr": "neutral\\neutral_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nevertheless",
+      "audio": {
+        "en": {
+          "matt": "nevertheless\\nevertheless_en_word_matt.mp3",
+          "danna": "nevertheless\\nevertheless_en_word_danna.mp3",
+          "clara": "nevertheless\\nevertheless_en_word_clara.mp3"
+        },
+        "kr": "nevertheless\\nevertheless_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nightmare",
+      "audio": {
+        "en": {
+          "matt": "nightmare\\nightmare_en_word_matt.mp3",
+          "danna": "nightmare\\nightmare_en_word_danna.mp3",
+          "clara": "nightmare\\nightmare_en_word_clara.mp3"
+        },
+        "kr": "nightmare\\nightmare_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "noble",
+      "audio": {
+        "en": {
+          "matt": "noble\\noble_en_word_matt.mp3",
+          "danna": "noble\\noble_en_word_danna.mp3",
+          "clara": "noble\\noble_en_word_clara.mp3"
+        },
+        "kr": "noble\\noble_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "noise",
+      "audio": {
+        "en": {
+          "matt": "noise\\noise_en_word_matt.mp3",
+          "danna": "noise\\noise_en_word_danna.mp3",
+          "clara": "noise\\noise_en_word_clara.mp3"
+        },
+        "kr": "noise\\noise_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nominate",
+      "audio": {
+        "en": {
+          "matt": "nominate\\nominate_en_word_matt.mp3",
+          "danna": "nominate\\nominate_en_word_danna.mp3",
+          "clara": "nominate\\nominate_en_word_clara.mp3"
+        },
+        "kr": "nominate\\nominate_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nonetheless",
+      "audio": {
+        "en": {
+          "matt": "nonetheless\\nonetheless_en_word_matt.mp3",
+          "danna": "nonetheless\\nonetheless_en_word_danna.mp3",
+          "clara": "nonetheless\\nonetheless_en_word_clara.mp3"
+        },
+        "kr": "nonetheless\\nonetheless_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "norm",
+      "audio": {
+        "en": {
+          "matt": "norm\\norm_en_word_matt.mp3",
+          "danna": "norm\\norm_en_word_danna.mp3",
+          "clara": "norm\\norm_en_word_clara.mp3"
+        },
+        "kr": "norm\\norm_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "normal",
+      "audio": {
+        "en": {
+          "matt": "normal\\normal_en_word_matt.mp3",
+          "danna": "normal\\normal_en_word_danna.mp3",
+          "clara": "normal\\normal_en_word_clara.mp3"
+        },
+        "kr": "normal\\normal_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "notice",
+      "audio": {
+        "en": {
+          "matt": "notice\\notice_en_word_matt.mp3",
+          "danna": "notice\\notice_en_word_danna.mp3",
+          "clara": "notice\\notice_en_word_clara.mp3"
+        },
+        "kr": "notice\\notice_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "notify",
+      "audio": {
+        "en": {
+          "matt": "notify\\notify_en_word_matt.mp3",
+          "danna": "notify\\notify_en_word_danna.mp3",
+          "clara": "notify\\notify_en_word_clara.mp3"
+        },
+        "kr": "notify\\notify_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "novel",
+      "audio": {
+        "en": {
+          "matt": "novel\\novel_en_word_matt.mp3",
+          "danna": "novel\\novel_en_word_danna.mp3",
+          "clara": "novel\\novel_en_word_clara.mp3"
+        },
+        "kr": "novel\\novel_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nowadays",
+      "audio": {
+        "en": {
+          "matt": "nowadays\\nowadays_en_word_matt.mp3",
+          "danna": "nowadays\\nowadays_en_word_danna.mp3",
+          "clara": "nowadays\\nowadays_en_word_clara.mp3"
+        },
+        "kr": "nowadays\\nowadays_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nowhere",
+      "audio": {
+        "en": {
+          "matt": "nowhere\\nowhere_en_word_matt.mp3",
+          "danna": "nowhere\\nowhere_en_word_danna.mp3",
+          "clara": "nowhere\\nowhere_en_word_clara.mp3"
+        },
+        "kr": "nowhere\\nowhere_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nuclear",
+      "audio": {
+        "en": {
+          "matt": "nuclear\\nuclear_en_word_matt.mp3",
+          "danna": "nuclear\\nuclear_en_word_danna.mp3",
+          "clara": "nuclear\\nuclear_en_word_clara.mp3"
+        },
+        "kr": "nuclear\\nuclear_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nuisance",
+      "audio": {
+        "en": {
+          "matt": "nuisance\\nuisance_en_word_matt.mp3",
+          "danna": "nuisance\\nuisance_en_word_danna.mp3",
+          "clara": "nuisance\\nuisance_en_word_clara.mp3"
+        },
+        "kr": "nuisance\\nuisance_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "numerous",
+      "audio": {
+        "en": {
+          "matt": "numerous\\numerous_en_word_matt.mp3",
+          "danna": "numerous\\numerous_en_word_danna.mp3",
+          "clara": "numerous\\numerous_en_word_clara.mp3"
+        },
+        "kr": "numerous\\numerous_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "nutrition",
+      "audio": {
+        "en": {
+          "matt": "nutrition\\nutrition_en_word_matt.mp3",
+          "danna": "nutrition\\nutrition_en_word_danna.mp3",
+          "clara": "nutrition\\nutrition_en_word_clara.mp3"
+        },
+        "kr": "nutrition\\nutrition_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "obesity",
+      "audio": {
+        "en": {
+          "matt": "obesity\\obesity_en_word_matt.mp3",
+          "danna": "obesity\\obesity_en_word_danna.mp3",
+          "clara": "obesity\\obesity_en_word_clara.mp3"
+        },
+        "kr": "obesity\\obesity_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "object",
+      "audio": {
+        "en": {
+          "matt": "object\\object_en_word_matt.mp3",
+          "danna": "object\\object_en_word_danna.mp3",
+          "clara": "object\\object_en_word_clara.mp3"
+        },
+        "kr": "object\\object_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "objective",
+      "audio": {
+        "en": {
+          "matt": "objective\\objective_en_word_matt.mp3",
+          "danna": "objective\\objective_en_word_danna.mp3",
+          "clara": "objective\\objective_en_word_clara.mp3"
+        },
+        "kr": "objective\\objective_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "oblige",
+      "audio": {
+        "en": {
+          "matt": "oblige\\oblige_en_word_matt.mp3",
+          "danna": "oblige\\oblige_en_word_danna.mp3",
+          "clara": "oblige\\oblige_en_word_clara.mp3"
+        },
+        "kr": "oblige\\oblige_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "obscure",
+      "audio": {
+        "en": {
+          "matt": "obscure\\obscure_en_word_matt.mp3",
+          "danna": "obscure\\obscure_en_word_danna.mp3",
+          "clara": "obscure\\obscure_en_word_clara.mp3"
+        },
+        "kr": "obscure\\obscure_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "observe",
+      "audio": {
+        "en": {
+          "matt": "observe\\observe_en_word_matt.mp3",
+          "danna": "observe\\observe_en_word_danna.mp3",
+          "clara": "observe\\observe_en_word_clara.mp3"
+        },
+        "kr": "observe\\observe_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "obsess",
+      "audio": {
+        "en": {
+          "matt": "obsess\\obsess_en_word_matt.mp3",
+          "danna": "obsess\\obsess_en_word_danna.mp3",
+          "clara": "obsess\\obsess_en_word_clara.mp3"
+        },
+        "kr": "obsess\\obsess_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "obtain",
+      "audio": {
+        "en": {
+          "matt": "obtain\\obtain_en_word_matt.mp3",
+          "danna": "obtain\\obtain_en_word_danna.mp3",
+          "clara": "obtain\\obtain_en_word_clara.mp3"
+        },
+        "kr": "obtain\\obtain_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "obvious",
+      "audio": {
+        "en": {
+          "matt": "obvious\\obvious_en_word_matt.mp3",
+          "danna": "obvious\\obvious_en_word_danna.mp3",
+          "clara": "obvious\\obvious_en_word_clara.mp3"
+        },
+        "kr": "obvious\\obvious_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "occasion",
+      "audio": {
+        "en": {
+          "matt": "occasion\\occasion_en_word_matt.mp3",
+          "danna": "occasion\\occasion_en_word_danna.mp3",
+          "clara": "occasion\\occasion_en_word_clara.mp3"
+        },
+        "kr": "occasion\\occasion_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "occupation",
+      "audio": {
+        "en": {
+          "matt": "occupation\\occupation_en_word_matt.mp3",
+          "danna": "occupation\\occupation_en_word_danna.mp3",
+          "clara": "occupation\\occupation_en_word_clara.mp3"
+        },
+        "kr": "occupation\\occupation_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "occupy",
+      "audio": {
+        "en": {
+          "matt": "occupy\\occupy_en_word_matt.mp3",
+          "danna": "occupy\\occupy_en_word_danna.mp3",
+          "clara": "occupy\\occupy_en_word_clara.mp3"
+        },
+        "kr": "occupy\\occupy_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "occur",
+      "audio": {
+        "en": {
+          "matt": "occur\\occur_en_word_matt.mp3",
+          "danna": "occur\\occur_en_word_danna.mp3",
+          "clara": "occur\\occur_en_word_clara.mp3"
+        },
+        "kr": "occur\\occur_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "occurrence",
+      "audio": {
+        "en": {
+          "matt": "occurrence\\occurrence_en_word_matt.mp3",
+          "danna": "occurrence\\occurrence_en_word_danna.mp3",
+          "clara": "occurrence\\occurrence_en_word_clara.mp3"
+        },
+        "kr": "occurrence\\occurrence_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "ocean",
+      "audio": {
+        "en": {
+          "matt": "ocean\\ocean_en_word_matt.mp3",
+          "danna": "ocean\\ocean_en_word_danna.mp3",
+          "clara": "ocean\\ocean_en_word_clara.mp3"
+        },
+        "kr": "ocean\\ocean_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "offend",
+      "audio": {
+        "en": {
+          "matt": "offend\\offend_en_word_matt.mp3",
+          "danna": "offend\\offend_en_word_danna.mp3",
+          "clara": "offend\\offend_en_word_clara.mp3"
+        },
+        "kr": "offend\\offend_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "omit",
+      "audio": {
+        "en": {
+          "matt": "omit\\omit_en_word_matt.mp3",
+          "danna": "omit\\omit_en_word_danna.mp3",
+          "clara": "omit\\omit_en_word_clara.mp3"
+        },
+        "kr": "omit\\omit_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "operate",
+      "audio": {
+        "en": {
+          "matt": "operate\\operate_en_word_matt.mp3",
+          "danna": "operate\\operate_en_word_danna.mp3",
+          "clara": "operate\\operate_en_word_clara.mp3"
+        },
+        "kr": "operate\\operate_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "opinion",
+      "audio": {
+        "en": {
+          "matt": "opinion\\opinion_en_word_matt.mp3",
+          "danna": "opinion\\opinion_en_word_danna.mp3",
+          "clara": "opinion\\opinion_en_word_clara.mp3"
+        },
+        "kr": "opinion\\opinion_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "opportune",
+      "audio": {
+        "en": {
+          "matt": "opportune\\opportune_en_word_matt.mp3",
+          "danna": "opportune\\opportune_en_word_danna.mp3",
+          "clara": "opportune\\opportune_en_word_clara.mp3"
+        },
+        "kr": "opportune\\opportune_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "opportunity",
+      "audio": {
+        "en": {
+          "matt": "opportunity\\opportunity_en_word_matt.mp3",
+          "danna": "opportunity\\opportunity_en_word_danna.mp3",
+          "clara": "opportunity\\opportunity_en_word_clara.mp3"
+        },
+        "kr": "opportunity\\opportunity_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "oppose",
+      "audio": {
+        "en": {
+          "matt": "oppose\\oppose_en_word_matt.mp3",
+          "danna": "oppose\\oppose_en_word_danna.mp3",
+          "clara": "oppose\\oppose_en_word_clara.mp3"
+        },
+        "kr": "oppose\\oppose_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "opt",
+      "audio": {
+        "en": {
+          "matt": "opt\\opt_en_word_matt.mp3",
+          "danna": "opt\\opt_en_word_danna.mp3",
+          "clara": "opt\\opt_en_word_clara.mp3"
+        },
+        "kr": "opt\\opt_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "optimal",
+      "audio": {
+        "en": {
+          "matt": "optimal\\optimal_en_word_matt.mp3",
+          "danna": "optimal\\optimal_en_word_danna.mp3",
+          "clara": "optimal\\optimal_en_word_clara.mp3"
+        },
+        "kr": "optimal\\optimal_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "optimist",
+      "audio": {
+        "en": {
+          "matt": "optimist\\optimist_en_word_matt.mp3",
+          "danna": "optimist\\optimist_en_word_danna.mp3",
+          "clara": "optimist\\optimist_en_word_clara.mp3"
+        },
+        "kr": "optimist\\optimist_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "option",
+      "audio": {
+        "en": {
+          "matt": "option\\option_en_word_matt.mp3",
+          "danna": "option\\option_en_word_danna.mp3",
+          "clara": "option\\option_en_word_clara.mp3"
+        },
+        "kr": "option\\option_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "oral",
+      "audio": {
+        "en": {
+          "matt": "oral\\oral_en_word_matt.mp3",
+          "danna": "oral\\oral_en_word_danna.mp3",
+          "clara": "oral\\oral_en_word_clara.mp3"
+        },
+        "kr": "oral\\oral_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "orbit",
+      "audio": {
+        "en": {
+          "matt": "orbit\\orbit_en_word_matt.mp3",
+          "danna": "orbit\\orbit_en_word_danna.mp3",
+          "clara": "orbit\\orbit_en_word_clara.mp3"
+        },
+        "kr": "orbit\\orbit_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "orchard",
+      "audio": {
+        "en": {
+          "matt": "orchard\\orchard_en_word_matt.mp3",
+          "danna": "orchard\\orchard_en_word_danna.mp3",
+          "clara": "orchard\\orchard_en_word_clara.mp3"
+        },
+        "kr": "orchard\\orchard_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "ordinary",
+      "audio": {
+        "en": {
+          "matt": "ordinary\\ordinary_en_word_matt.mp3",
+          "danna": "ordinary\\ordinary_en_word_danna.mp3",
+          "clara": "ordinary\\ordinary_en_word_clara.mp3"
+        },
+        "kr": "ordinary\\ordinary_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "organ",
+      "audio": {
+        "en": {
+          "matt": "organ\\organ_en_word_matt.mp3",
+          "danna": "organ\\organ_en_word_danna.mp3",
+          "clara": "organ\\organ_en_word_clara.mp3"
+        },
+        "kr": "organ\\organ_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "organic",
+      "audio": {
+        "en": {
+          "matt": "organic\\organic_en_word_matt.mp3",
+          "danna": "organic\\organic_en_word_danna.mp3",
+          "clara": "organic\\organic_en_word_clara.mp3"
+        },
+        "kr": "organic\\organic_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "organism",
+      "audio": {
+        "en": {
+          "matt": "organism\\organism_en_word_matt.mp3",
+          "danna": "organism\\organism_en_word_danna.mp3",
+          "clara": "organism\\organism_en_word_clara.mp3"
+        },
+        "kr": "organism\\organism_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "orient",
+      "audio": {
+        "en": {
+          "matt": "orient\\orient_en_word_matt.mp3",
+          "danna": "orient\\orient_en_word_danna.mp3",
+          "clara": "orient\\orient_en_word_clara.mp3"
+        },
+        "kr": "orient\\orient_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "orientation",
+      "audio": {
+        "en": {
+          "matt": "orientation\\orientation_en_word_matt.mp3",
+          "danna": "orientation\\orientation_en_word_danna.mp3",
+          "clara": "orientation\\orientation_en_word_clara.mp3"
+        },
+        "kr": "orientation\\orientation_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "origin",
+      "audio": {
+        "en": {
+          "matt": "origin\\origin_en_word_matt.mp3",
+          "danna": "origin\\origin_en_word_danna.mp3",
+          "clara": "origin\\origin_en_word_clara.mp3"
+        },
+        "kr": "origin\\origin_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "orphan",
+      "audio": {
+        "en": {
+          "matt": "orphan\\orphan_en_word_matt.mp3",
+          "danna": "orphan\\orphan_en_word_danna.mp3",
+          "clara": "orphan\\orphan_en_word_clara.mp3"
+        },
+        "kr": "orphan\\orphan_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "otherwise",
+      "audio": {
+        "en": {
+          "matt": "otherwise\\otherwise_en_word_matt.mp3",
+          "danna": "otherwise\\otherwise_en_word_danna.mp3",
+          "clara": "otherwise\\otherwise_en_word_clara.mp3"
+        },
+        "kr": "otherwise\\otherwise_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "outbreak",
+      "audio": {
+        "en": {
+          "matt": "outbreak\\outbreak_en_word_matt.mp3",
+          "danna": "outbreak\\outbreak_en_word_danna.mp3",
+          "clara": "outbreak\\outbreak_en_word_clara.mp3"
+        },
+        "kr": "outbreak\\outbreak_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "outcome",
+      "audio": {
+        "en": {
+          "matt": "outcome\\outcome_en_word_matt.mp3",
+          "danna": "outcome\\outcome_en_word_danna.mp3",
+          "clara": "outcome\\outcome_en_word_clara.mp3"
+        },
+        "kr": "outcome\\outcome_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "outlaw",
+      "audio": {
+        "en": {
+          "matt": "outlaw\\outlaw_en_word_matt.mp3",
+          "danna": "outlaw\\outlaw_en_word_danna.mp3",
+          "clara": "outlaw\\outlaw_en_word_clara.mp3"
+        },
+        "kr": "outlaw\\outlaw_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "outline",
+      "audio": {
+        "en": {
+          "matt": "outline\\outline_en_word_matt.mp3",
+          "danna": "outline\\outline_en_word_danna.mp3",
+          "clara": "outline\\outline_en_word_clara.mp3"
+        },
+        "kr": "outline\\outline_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "outlook",
+      "audio": {
+        "en": {
+          "matt": "outlook\\outlook_en_word_matt.mp3",
+          "danna": "outlook\\outlook_en_word_danna.mp3",
+          "clara": "outlook\\outlook_en_word_clara.mp3"
+        },
+        "kr": "outlook\\outlook_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "output",
+      "audio": {
+        "en": {
+          "matt": "output\\output_en_word_matt.mp3",
+          "danna": "output\\output_en_word_danna.mp3",
+          "clara": "output\\output_en_word_clara.mp3"
+        },
+        "kr": "output\\output_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "outrage",
+      "audio": {
+        "en": {
+          "matt": "outrage\\outrage_en_word_matt.mp3",
+          "danna": "outrage\\outrage_en_word_danna.mp3",
+          "clara": "outrage\\outrage_en_word_clara.mp3"
+        },
+        "kr": "outrage\\outrage_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "outset",
+      "audio": {
+        "en": {
+          "matt": "outset\\outset_en_word_matt.mp3",
+          "danna": "outset\\outset_en_word_danna.mp3",
+          "clara": "outset\\outset_en_word_clara.mp3"
+        },
+        "kr": "outset\\outset_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "outstanding",
+      "audio": {
+        "en": {
+          "matt": "outstanding\\outstanding_en_word_matt.mp3",
+          "danna": "outstanding\\outstanding_en_word_danna.mp3",
+          "clara": "outstanding\\outstanding_en_word_clara.mp3"
+        },
+        "kr": "outstanding\\outstanding_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "oval",
+      "audio": {
+        "en": {
+          "matt": "oval\\oval_en_word_matt.mp3",
+          "danna": "oval\\oval_en_word_danna.mp3",
+          "clara": "oval\\oval_en_word_clara.mp3"
+        },
+        "kr": "oval\\oval_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "overall",
+      "audio": {
+        "en": {
+          "matt": "overall\\overall_en_word_matt.mp3",
+          "danna": "overall\\overall_en_word_danna.mp3",
+          "clara": "overall\\overall_en_word_clara.mp3"
+        },
+        "kr": "overall\\overall_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "overcome",
+      "audio": {
+        "en": {
+          "matt": "overcome\\overcome_en_word_matt.mp3",
+          "danna": "overcome\\overcome_en_word_danna.mp3",
+          "clara": "overcome\\overcome_en_word_clara.mp3"
+        },
+        "kr": "overcome\\overcome_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "overhead",
+      "audio": {
+        "en": {
+          "matt": "overhead\\overhead_en_word_matt.mp3",
+          "danna": "overhead\\overhead_en_word_danna.mp3",
+          "clara": "overhead\\overhead_en_word_clara.mp3"
+        },
+        "kr": "overhead\\overhead_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "overlap",
+      "audio": {
+        "en": {
+          "matt": "overlap\\overlap_en_word_matt.mp3",
+          "danna": "overlap\\overlap_en_word_danna.mp3",
+          "clara": "overlap\\overlap_en_word_clara.mp3"
+        },
+        "kr": "overlap\\overlap_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "overlook",
+      "audio": {
+        "en": {
+          "matt": "overlook\\overlook_en_word_matt.mp3",
+          "danna": "overlook\\overlook_en_word_danna.mp3",
+          "clara": "overlook\\overlook_en_word_clara.mp3"
+        },
+        "kr": "overlook\\overlook_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "overnight",
+      "audio": {
+        "en": {
+          "matt": "overnight\\overnight_en_word_matt.mp3",
+          "danna": "overnight\\overnight_en_word_danna.mp3",
+          "clara": "overnight\\overnight_en_word_clara.mp3"
+        },
+        "kr": "overnight\\overnight_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "oversea",
+      "audio": {
+        "en": {
+          "matt": "oversea\\oversea_en_word_matt.mp3",
+          "danna": "oversea\\oversea_en_word_danna.mp3",
+          "clara": "oversea\\oversea_en_word_clara.mp3"
+        },
+        "kr": "oversea\\oversea_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "oversee",
+      "audio": {
+        "en": {
+          "matt": "oversee\\oversee_en_word_matt.mp3",
+          "danna": "oversee\\oversee_en_word_danna.mp3",
+          "clara": "oversee\\oversee_en_word_clara.mp3"
+        },
+        "kr": "oversee\\oversee_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "overwhelm",
+      "audio": {
+        "en": {
+          "matt": "overwhelm\\overwhelm_en_word_matt.mp3",
+          "danna": "overwhelm\\overwhelm_en_word_danna.mp3",
+          "clara": "overwhelm\\overwhelm_en_word_clara.mp3"
+        },
+        "kr": "overwhelm\\overwhelm_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "owe",
+      "audio": {
+        "en": {
+          "matt": "owe\\owe_en_word_matt.mp3",
+          "danna": "owe\\owe_en_word_danna.mp3",
+          "clara": "owe\\owe_en_word_clara.mp3"
+        },
+        "kr": "owe\\owe_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pace",
+      "audio": {
+        "en": {
+          "matt": "pace\\pace_en_word_matt.mp3",
+          "danna": "pace\\pace_en_word_danna.mp3",
+          "clara": "pace\\pace_en_word_clara.mp3"
+        },
+        "kr": "pace\\pace_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "package",
+      "audio": {
+        "en": {
+          "matt": "package\\package_en_word_matt.mp3",
+          "danna": "package\\package_en_word_danna.mp3",
+          "clara": "package\\package_en_word_clara.mp3"
+        },
+        "kr": "package\\package_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pad",
+      "audio": {
+        "en": {
+          "matt": "pad\\pad_en_word_matt.mp3",
+          "danna": "pad\\pad_en_word_danna.mp3",
+          "clara": "pad\\pad_en_word_clara.mp3"
+        },
+        "kr": "pad\\pad_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "palace",
+      "audio": {
+        "en": {
+          "matt": "palace\\palace_en_word_matt.mp3",
+          "danna": "palace\\palace_en_word_danna.mp3",
+          "clara": "palace\\palace_en_word_clara.mp3"
+        },
+        "kr": "palace\\palace_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pale",
+      "audio": {
+        "en": {
+          "matt": "pale\\pale_en_word_matt.mp3",
+          "danna": "pale\\pale_en_word_danna.mp3",
+          "clara": "pale\\pale_en_word_clara.mp3"
+        },
+        "kr": "pale\\pale_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "palm",
+      "audio": {
+        "en": {
+          "matt": "palm\\palm_en_word_matt.mp3",
+          "danna": "palm\\palm_en_word_danna.mp3",
+          "clara": "palm\\palm_en_word_clara.mp3"
+        },
+        "kr": "palm\\palm_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "panel",
+      "audio": {
+        "en": {
+          "matt": "panel\\panel_en_word_matt.mp3",
+          "danna": "panel\\panel_en_word_danna.mp3",
+          "clara": "panel\\panel_en_word_clara.mp3"
+        },
+        "kr": "panel\\panel_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "panic",
+      "audio": {
+        "en": {
+          "matt": "panic\\panic_en_word_matt.mp3",
+          "danna": "panic\\panic_en_word_danna.mp3",
+          "clara": "panic\\panic_en_word_clara.mp3"
+        },
+        "kr": "panic\\panic_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "parade",
+      "audio": {
+        "en": {
+          "matt": "parade\\parade_en_word_matt.mp3",
+          "danna": "parade\\parade_en_word_danna.mp3",
+          "clara": "parade\\parade_en_word_clara.mp3"
+        },
+        "kr": "parade\\parade_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "paradigm",
+      "audio": {
+        "en": {
+          "matt": "paradigm\\paradigm_en_word_matt.mp3",
+          "danna": "paradigm\\paradigm_en_word_danna.mp3",
+          "clara": "paradigm\\paradigm_en_word_clara.mp3"
+        },
+        "kr": "paradigm\\paradigm_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "paradox",
+      "audio": {
+        "en": {
+          "matt": "paradox\\paradox_en_word_matt.mp3",
+          "danna": "paradox\\paradox_en_word_danna.mp3",
+          "clara": "paradox\\paradox_en_word_clara.mp3"
+        },
+        "kr": "paradox\\paradox_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "paragraph",
+      "audio": {
+        "en": {
+          "matt": "paragraph\\paragraph_en_word_matt.mp3",
+          "danna": "paragraph\\paragraph_en_word_danna.mp3",
+          "clara": "paragraph\\paragraph_en_word_clara.mp3"
+        },
+        "kr": "paragraph\\paragraph_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "parallel",
+      "audio": {
+        "en": {
+          "matt": "parallel\\parallel_en_word_matt.mp3",
+          "danna": "parallel\\parallel_en_word_danna.mp3",
+          "clara": "parallel\\parallel_en_word_clara.mp3"
+        },
+        "kr": "parallel\\parallel_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pardon",
+      "audio": {
+        "en": {
+          "matt": "pardon\\pardon_en_word_matt.mp3",
+          "danna": "pardon\\pardon_en_word_danna.mp3",
+          "clara": "pardon\\pardon_en_word_clara.mp3"
+        },
+        "kr": "pardon\\pardon_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "parliament",
+      "audio": {
+        "en": {
+          "matt": "parliament\\parliament_en_word_matt.mp3",
+          "danna": "parliament\\parliament_en_word_danna.mp3",
+          "clara": "parliament\\parliament_en_word_clara.mp3"
+        },
+        "kr": "parliament\\parliament_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "partial",
+      "audio": {
+        "en": {
+          "matt": "partial\\partial_en_word_matt.mp3",
+          "danna": "partial\\partial_en_word_danna.mp3",
+          "clara": "partial\\partial_en_word_clara.mp3"
+        },
+        "kr": "partial\\partial_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "participate",
+      "audio": {
+        "en": {
+          "matt": "participate\\participate_en_word_matt.mp3",
+          "danna": "participate\\participate_en_word_danna.mp3",
+          "clara": "participate\\participate_en_word_clara.mp3"
+        },
+        "kr": "participate\\participate_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "particle",
+      "audio": {
+        "en": {
+          "matt": "particle\\particle_en_word_matt.mp3",
+          "danna": "particle\\particle_en_word_danna.mp3",
+          "clara": "particle\\particle_en_word_clara.mp3"
+        },
+        "kr": "particle\\particle_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "particular",
+      "audio": {
+        "en": {
+          "matt": "particular\\particular_en_word_matt.mp3",
+          "danna": "particular\\particular_en_word_danna.mp3",
+          "clara": "particular\\particular_en_word_clara.mp3"
+        },
+        "kr": "particular\\particular_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "particularly",
+      "audio": {
+        "en": {
+          "matt": "particularly\\particularly_en_word_matt.mp3",
+          "danna": "particularly\\particularly_en_word_danna.mp3",
+          "clara": "particularly\\particularly_en_word_clara.mp3"
+        },
+        "kr": "particularly\\particularly_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "passage",
+      "audio": {
+        "en": {
+          "matt": "passage\\passage_en_word_matt.mp3",
+          "danna": "passage\\passage_en_word_danna.mp3",
+          "clara": "passage\\passage_en_word_clara.mp3"
+        },
+        "kr": "passage\\passage_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "passenger",
+      "audio": {
+        "en": {
+          "matt": "passenger\\passenger_en_word_matt.mp3",
+          "danna": "passenger\\passenger_en_word_danna.mp3",
+          "clara": "passenger\\passenger_en_word_clara.mp3"
+        },
+        "kr": "passenger\\passenger_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "passion",
+      "audio": {
+        "en": {
+          "matt": "passion\\passion_en_word_matt.mp3",
+          "danna": "passion\\passion_en_word_danna.mp3",
+          "clara": "passion\\passion_en_word_clara.mp3"
+        },
+        "kr": "passion\\passion_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "passport",
+      "audio": {
+        "en": {
+          "matt": "passport\\passport_en_word_matt.mp3",
+          "danna": "passport\\passport_en_word_danna.mp3",
+          "clara": "passport\\passport_en_word_clara.mp3"
+        },
+        "kr": "passport\\passport_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pat",
+      "audio": {
+        "en": {
+          "matt": "pat\\pat_en_word_matt.mp3",
+          "danna": "pat\\pat_en_word_danna.mp3",
+          "clara": "pat\\pat_en_word_clara.mp3"
+        },
+        "kr": "pat\\pat_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "patch",
+      "audio": {
+        "en": {
+          "matt": "patch\\patch_en_word_matt.mp3",
+          "danna": "patch\\patch_en_word_danna.mp3",
+          "clara": "patch\\patch_en_word_clara.mp3"
+        },
+        "kr": "patch\\patch_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "patent",
+      "audio": {
+        "en": {
+          "matt": "patent\\patent_en_word_matt.mp3",
+          "danna": "patent\\patent_en_word_danna.mp3",
+          "clara": "patent\\patent_en_word_clara.mp3"
+        },
+        "kr": "patent\\patent_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "patient",
+      "audio": {
+        "en": {
+          "matt": "patient\\patient_en_word_matt.mp3",
+          "danna": "patient\\patient_en_word_danna.mp3",
+          "clara": "patient\\patient_en_word_clara.mp3"
+        },
+        "kr": "patient\\patient_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "patrol",
+      "audio": {
+        "en": {
+          "matt": "patrol\\patrol_en_word_matt.mp3",
+          "danna": "patrol\\patrol_en_word_danna.mp3",
+          "clara": "patrol\\patrol_en_word_clara.mp3"
+        },
+        "kr": "patrol\\patrol_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "patron",
+      "audio": {
+        "en": {
+          "matt": "patron\\patron_en_word_matt.mp3",
+          "danna": "patron\\patron_en_word_danna.mp3",
+          "clara": "patron\\patron_en_word_clara.mp3"
+        },
+        "kr": "patron\\patron_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pattern",
+      "audio": {
+        "en": {
+          "matt": "pattern\\pattern_en_word_matt.mp3",
+          "danna": "pattern\\pattern_en_word_danna.mp3",
+          "clara": "pattern\\pattern_en_word_clara.mp3"
+        },
+        "kr": "pattern\\pattern_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pause",
+      "audio": {
+        "en": {
+          "matt": "pause\\pause_en_word_matt.mp3",
+          "danna": "pause\\pause_en_word_danna.mp3",
+          "clara": "pause\\pause_en_word_clara.mp3"
+        },
+        "kr": "pause\\pause_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pave",
+      "audio": {
+        "en": {
+          "matt": "pave\\pave_en_word_matt.mp3",
+          "danna": "pave\\pave_en_word_danna.mp3",
+          "clara": "pave\\pave_en_word_clara.mp3"
+        },
+        "kr": "pave\\pave_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pavement",
+      "audio": {
+        "en": {
+          "matt": "pavement\\pavement_en_word_matt.mp3",
+          "danna": "pavement\\pavement_en_word_danna.mp3",
+          "clara": "pavement\\pavement_en_word_clara.mp3"
+        },
+        "kr": "pavement\\pavement_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "peaceful",
+      "audio": {
+        "en": {
+          "matt": "peaceful\\peaceful_en_word_matt.mp3",
+          "danna": "peaceful\\peaceful_en_word_danna.mp3",
+          "clara": "peaceful\\peaceful_en_word_clara.mp3"
+        },
+        "kr": "peaceful\\peaceful_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "peak",
+      "audio": {
+        "en": {
+          "matt": "peak\\peak_en_word_matt.mp3",
+          "danna": "peak\\peak_en_word_danna.mp3",
+          "clara": "peak\\peak_en_word_clara.mp3"
+        },
+        "kr": "peak\\peak_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pear",
+      "audio": {
+        "en": {
+          "matt": "pear\\pear_en_word_matt.mp3",
+          "danna": "pear\\pear_en_word_danna.mp3",
+          "clara": "pear\\pear_en_word_clara.mp3"
+        },
+        "kr": "pear\\pear_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "peasant",
+      "audio": {
+        "en": {
+          "matt": "peasant\\peasant_en_word_matt.mp3",
+          "danna": "peasant\\peasant_en_word_danna.mp3",
+          "clara": "peasant\\peasant_en_word_clara.mp3"
+        },
+        "kr": "peasant\\peasant_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "peculiar",
+      "audio": {
+        "en": {
+          "matt": "peculiar\\peculiar_en_word_matt.mp3",
+          "danna": "peculiar\\peculiar_en_word_danna.mp3",
+          "clara": "peculiar\\peculiar_en_word_clara.mp3"
+        },
+        "kr": "peculiar\\peculiar_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "peel",
+      "audio": {
+        "en": {
+          "matt": "peel\\peel_en_word_matt.mp3",
+          "danna": "peel\\peel_en_word_danna.mp3",
+          "clara": "peel\\peel_en_word_clara.mp3"
+        },
+        "kr": "peel\\peel_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "peer",
+      "audio": {
+        "en": {
+          "matt": "peer\\peer_en_word_matt.mp3",
+          "danna": "peer\\peer_en_word_danna.mp3",
+          "clara": "peer\\peer_en_word_clara.mp3"
+        },
+        "kr": "peer\\peer_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "penalty",
+      "audio": {
+        "en": {
+          "matt": "penalty\\penalty_en_word_matt.mp3",
+          "danna": "penalty\\penalty_en_word_danna.mp3",
+          "clara": "penalty\\penalty_en_word_clara.mp3"
+        },
+        "kr": "penalty\\penalty_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pepper",
+      "audio": {
+        "en": {
+          "matt": "pepper\\pepper_en_word_matt.mp3",
+          "danna": "pepper\\pepper_en_word_danna.mp3",
+          "clara": "pepper\\pepper_en_word_clara.mp3"
+        },
+        "kr": "pepper\\pepper_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "perceive",
+      "audio": {
+        "en": {
+          "matt": "perceive\\perceive_en_word_matt.mp3",
+          "danna": "perceive\\perceive_en_word_danna.mp3",
+          "clara": "perceive\\perceive_en_word_clara.mp3"
+        },
+        "kr": "perceive\\perceive_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "perception",
+      "audio": {
+        "en": {
+          "matt": "perception\\perception_en_word_matt.mp3",
+          "danna": "perception\\perception_en_word_danna.mp3",
+          "clara": "perception\\perception_en_word_clara.mp3"
+        },
+        "kr": "perception\\perception_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "perform",
+      "audio": {
+        "en": {
+          "matt": "perform\\perform_en_word_matt.mp3",
+          "danna": "perform\\perform_en_word_danna.mp3",
+          "clara": "perform\\perform_en_word_clara.mp3"
+        },
+        "kr": "perform\\perform_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "perhaps",
+      "audio": {
+        "en": {
+          "matt": "perhaps\\perhaps_en_word_matt.mp3",
+          "danna": "perhaps\\perhaps_en_word_danna.mp3",
+          "clara": "perhaps\\perhaps_en_word_clara.mp3"
+        },
+        "kr": "perhaps\\perhaps_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "permanent",
+      "audio": {
+        "en": {
+          "matt": "permanent\\permanent_en_word_matt.mp3",
+          "danna": "permanent\\permanent_en_word_danna.mp3",
+          "clara": "permanent\\permanent_en_word_clara.mp3"
+        },
+        "kr": "permanent\\permanent_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "permit",
+      "audio": {
+        "en": {
+          "matt": "permit\\permit_en_word_matt.mp3",
+          "danna": "permit\\permit_en_word_danna.mp3",
+          "clara": "permit\\permit_en_word_clara.mp3"
+        },
+        "kr": "permit\\permit_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "perpetual",
+      "audio": {
+        "en": {
+          "matt": "perpetual\\perpetual_en_word_matt.mp3",
+          "danna": "perpetual\\perpetual_en_word_danna.mp3",
+          "clara": "perpetual\\perpetual_en_word_clara.mp3"
+        },
+        "kr": "perpetual\\perpetual_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "persist",
+      "audio": {
+        "en": {
+          "matt": "persist\\persist_en_word_matt.mp3",
+          "danna": "persist\\persist_en_word_danna.mp3",
+          "clara": "persist\\persist_en_word_clara.mp3"
+        },
+        "kr": "persist\\persist_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "personality",
+      "audio": {
+        "en": {
+          "matt": "personality\\personality_en_word_matt.mp3",
+          "danna": "personality\\personality_en_word_danna.mp3",
+          "clara": "personality\\personality_en_word_clara.mp3"
+        },
+        "kr": "personality\\personality_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "perspective",
+      "audio": {
+        "en": {
+          "matt": "perspective\\perspective_en_word_matt.mp3",
+          "danna": "perspective\\perspective_en_word_danna.mp3",
+          "clara": "perspective\\perspective_en_word_clara.mp3"
+        },
+        "kr": "perspective\\perspective_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "persuade",
+      "audio": {
+        "en": {
+          "matt": "persuade\\persuade_en_word_matt.mp3",
+          "danna": "persuade\\persuade_en_word_danna.mp3",
+          "clara": "persuade\\persuade_en_word_clara.mp3"
+        },
+        "kr": "persuade\\persuade_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "phase",
+      "audio": {
+        "en": {
+          "matt": "phase\\phase_en_word_matt.mp3",
+          "danna": "phase\\phase_en_word_danna.mp3",
+          "clara": "phase\\phase_en_word_clara.mp3"
+        },
+        "kr": "phase\\phase_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "phenomenon",
+      "audio": {
+        "en": {
+          "matt": "phenomenon\\phenomenon_en_word_matt.mp3",
+          "danna": "phenomenon\\phenomenon_en_word_danna.mp3",
+          "clara": "phenomenon\\phenomenon_en_word_clara.mp3"
+        },
+        "kr": "phenomenon\\phenomenon_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "philosophy",
+      "audio": {
+        "en": {
+          "matt": "philosophy\\philosophy_en_word_matt.mp3",
+          "danna": "philosophy\\philosophy_en_word_danna.mp3",
+          "clara": "philosophy\\philosophy_en_word_clara.mp3"
+        },
+        "kr": "philosophy\\philosophy_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "phrase",
+      "audio": {
+        "en": {
+          "matt": "phrase\\phrase_en_word_matt.mp3",
+          "danna": "phrase\\phrase_en_word_danna.mp3",
+          "clara": "phrase\\phrase_en_word_clara.mp3"
+        },
+        "kr": "phrase\\phrase_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "physical",
+      "audio": {
+        "en": {
+          "matt": "physical\\physical_en_word_matt.mp3",
+          "danna": "physical\\physical_en_word_danna.mp3",
+          "clara": "physical\\physical_en_word_clara.mp3"
+        },
+        "kr": "physical\\physical_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "physics",
+      "audio": {
+        "en": {
+          "matt": "physics\\physics_en_word_matt.mp3",
+          "danna": "physics\\physics_en_word_danna.mp3",
+          "clara": "physics\\physics_en_word_clara.mp3"
+        },
+        "kr": "physics\\physics_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pill",
+      "audio": {
+        "en": {
+          "matt": "pill\\pill_en_word_matt.mp3",
+          "danna": "pill\\pill_en_word_danna.mp3",
+          "clara": "pill\\pill_en_word_clara.mp3"
+        },
+        "kr": "pill\\pill_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pinch",
+      "audio": {
+        "en": {
+          "matt": "pinch\\pinch_en_word_matt.mp3",
+          "danna": "pinch\\pinch_en_word_danna.mp3",
+          "clara": "pinch\\pinch_en_word_clara.mp3"
+        },
+        "kr": "pinch\\pinch_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pioneer",
+      "audio": {
+        "en": {
+          "matt": "pioneer\\pioneer_en_word_matt.mp3",
+          "danna": "pioneer\\pioneer_en_word_danna.mp3",
+          "clara": "pioneer\\pioneer_en_word_clara.mp3"
+        },
+        "kr": "pioneer\\pioneer_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pity",
+      "audio": {
+        "en": {
+          "matt": "pity\\pity_en_word_matt.mp3",
+          "danna": "pity\\pity_en_word_danna.mp3",
+          "clara": "pity\\pity_en_word_clara.mp3"
+        },
+        "kr": "pity\\pity_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "plague",
+      "audio": {
+        "en": {
+          "matt": "plague\\plague_en_word_matt.mp3",
+          "danna": "plague\\plague_en_word_danna.mp3",
+          "clara": "plague\\plague_en_word_clara.mp3"
+        },
+        "kr": "plague\\plague_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "planet",
+      "audio": {
+        "en": {
+          "matt": "planet\\planet_en_word_matt.mp3",
+          "danna": "planet\\planet_en_word_danna.mp3",
+          "clara": "planet\\planet_en_word_clara.mp3"
+        },
+        "kr": "planet\\planet_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "plate",
+      "audio": {
+        "en": {
+          "matt": "plate\\plate_en_word_matt.mp3",
+          "danna": "plate\\plate_en_word_danna.mp3",
+          "clara": "plate\\plate_en_word_clara.mp3"
+        },
+        "kr": "plate\\plate_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "platform",
+      "audio": {
+        "en": {
+          "matt": "platform\\platform_en_word_matt.mp3",
+          "danna": "platform\\platform_en_word_danna.mp3",
+          "clara": "platform\\platform_en_word_clara.mp3"
+        },
+        "kr": "platform\\platform_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "plausible",
+      "audio": {
+        "en": {
+          "matt": "plausible\\plausible_en_word_matt.mp3",
+          "danna": "plausible\\plausible_en_word_danna.mp3",
+          "clara": "plausible\\plausible_en_word_clara.mp3"
+        },
+        "kr": "plausible\\plausible_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pledge",
+      "audio": {
+        "en": {
+          "matt": "pledge\\pledge_en_word_matt.mp3",
+          "danna": "pledge\\pledge_en_word_danna.mp3",
+          "clara": "pledge\\pledge_en_word_clara.mp3"
+        },
+        "kr": "pledge\\pledge_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "plenty",
+      "audio": {
+        "en": {
+          "matt": "plenty\\plenty_en_word_matt.mp3",
+          "danna": "plenty\\plenty_en_word_danna.mp3",
+          "clara": "plenty\\plenty_en_word_clara.mp3"
+        },
+        "kr": "plenty\\plenty_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "plot",
+      "audio": {
+        "en": {
+          "matt": "plot\\plot_en_word_matt.mp3",
+          "danna": "plot\\plot_en_word_danna.mp3",
+          "clara": "plot\\plot_en_word_clara.mp3"
+        },
+        "kr": "plot\\plot_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "plunge",
+      "audio": {
+        "en": {
+          "matt": "plunge\\plunge_en_word_matt.mp3",
+          "danna": "plunge\\plunge_en_word_danna.mp3",
+          "clara": "plunge\\plunge_en_word_clara.mp3"
+        },
+        "kr": "plunge\\plunge_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "poison",
+      "audio": {
+        "en": {
+          "matt": "poison\\poison_en_word_matt.mp3",
+          "danna": "poison\\poison_en_word_danna.mp3",
+          "clara": "poison\\poison_en_word_clara.mp3"
+        },
+        "kr": "poison\\poison_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "polar",
+      "audio": {
+        "en": {
+          "matt": "polar\\polar_en_word_matt.mp3",
+          "danna": "polar\\polar_en_word_danna.mp3",
+          "clara": "polar\\polar_en_word_clara.mp3"
+        },
+        "kr": "polar\\polar_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "policy",
+      "audio": {
+        "en": {
+          "matt": "policy\\policy_en_word_matt.mp3",
+          "danna": "policy\\policy_en_word_danna.mp3",
+          "clara": "policy\\policy_en_word_clara.mp3"
+        },
+        "kr": "policy\\policy_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "polish",
+      "audio": {
+        "en": {
+          "matt": "polish\\polish_en_word_matt.mp3",
+          "danna": "polish\\polish_en_word_danna.mp3",
+          "clara": "polish\\polish_en_word_clara.mp3"
+        },
+        "kr": "polish\\polish_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "polite",
+      "audio": {
+        "en": {
+          "matt": "polite\\polite_en_word_matt.mp3",
+          "danna": "polite\\polite_en_word_danna.mp3",
+          "clara": "polite\\polite_en_word_clara.mp3"
+        },
+        "kr": "polite\\polite_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "politics",
+      "audio": {
+        "en": {
+          "matt": "politics\\politics_en_word_matt.mp3",
+          "danna": "politics\\politics_en_word_danna.mp3",
+          "clara": "politics\\politics_en_word_clara.mp3"
+        },
+        "kr": "politics\\politics_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "poll",
+      "audio": {
+        "en": {
+          "matt": "poll\\poll_en_word_matt.mp3",
+          "danna": "poll\\poll_en_word_danna.mp3",
+          "clara": "poll\\poll_en_word_clara.mp3"
+        },
+        "kr": "poll\\poll_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pollute",
+      "audio": {
+        "en": {
+          "matt": "pollute\\pollute_en_word_matt.mp3",
+          "danna": "pollute\\pollute_en_word_danna.mp3",
+          "clara": "pollute\\pollute_en_word_clara.mp3"
+        },
+        "kr": "pollute\\pollute_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pond",
+      "audio": {
+        "en": {
+          "matt": "pond\\pond_en_word_matt.mp3",
+          "danna": "pond\\pond_en_word_danna.mp3",
+          "clara": "pond\\pond_en_word_clara.mp3"
+        },
+        "kr": "pond\\pond_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "ponder",
+      "audio": {
+        "en": {
+          "matt": "ponder\\ponder_en_word_matt.mp3",
+          "danna": "ponder\\ponder_en_word_danna.mp3",
+          "clara": "ponder\\ponder_en_word_clara.mp3"
+        },
+        "kr": "ponder\\ponder_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "populate",
+      "audio": {
+        "en": {
+          "matt": "populate\\populate_en_word_matt.mp3",
+          "danna": "populate\\populate_en_word_danna.mp3",
+          "clara": "populate\\populate_en_word_clara.mp3"
+        },
+        "kr": "populate\\populate_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "population",
+      "audio": {
+        "en": {
+          "matt": "population\\population_en_word_matt.mp3",
+          "danna": "population\\population_en_word_danna.mp3",
+          "clara": "population\\population_en_word_clara.mp3"
+        },
+        "kr": "population\\population_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "portion",
+      "audio": {
+        "en": {
+          "matt": "portion\\portion_en_word_matt.mp3",
+          "danna": "portion\\portion_en_word_danna.mp3",
+          "clara": "portion\\portion_en_word_clara.mp3"
+        },
+        "kr": "portion\\portion_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "portrait",
+      "audio": {
+        "en": {
+          "matt": "portrait\\portrait_en_word_matt.mp3",
+          "danna": "portrait\\portrait_en_word_danna.mp3",
+          "clara": "portrait\\portrait_en_word_clara.mp3"
+        },
+        "kr": "portrait\\portrait_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pose",
+      "audio": {
+        "en": {
+          "matt": "pose\\pose_en_word_matt.mp3",
+          "danna": "pose\\pose_en_word_danna.mp3",
+          "clara": "pose\\pose_en_word_clara.mp3"
+        },
+        "kr": "pose\\pose_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "posit",
+      "audio": {
+        "en": {
+          "matt": "posit\\posit_en_word_matt.mp3",
+          "danna": "posit\\posit_en_word_danna.mp3",
+          "clara": "posit\\posit_en_word_clara.mp3"
+        },
+        "kr": "posit\\posit_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "positive",
+      "audio": {
+        "en": {
+          "matt": "positive\\positive_en_word_matt.mp3",
+          "danna": "positive\\positive_en_word_danna.mp3",
+          "clara": "positive\\positive_en_word_clara.mp3"
+        },
+        "kr": "positive\\positive_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "possess",
+      "audio": {
+        "en": {
+          "matt": "possess\\possess_en_word_matt.mp3",
+          "danna": "possess\\possess_en_word_danna.mp3",
+          "clara": "possess\\possess_en_word_clara.mp3"
+        },
+        "kr": "possess\\possess_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "possible",
+      "audio": {
+        "en": {
+          "matt": "possible\\possible_en_word_matt.mp3",
+          "danna": "possible\\possible_en_word_danna.mp3",
+          "clara": "possible\\possible_en_word_clara.mp3"
+        },
+        "kr": "possible\\possible_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "posture",
+      "audio": {
+        "en": {
+          "matt": "posture\\posture_en_word_matt.mp3",
+          "danna": "posture\\posture_en_word_danna.mp3",
+          "clara": "posture\\posture_en_word_clara.mp3"
+        },
+        "kr": "posture\\posture_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "potential",
+      "audio": {
+        "en": {
+          "matt": "potential\\potential_en_word_matt.mp3",
+          "danna": "potential\\potential_en_word_danna.mp3",
+          "clara": "potential\\potential_en_word_clara.mp3"
+        },
+        "kr": "potential\\potential_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pottery",
+      "audio": {
+        "en": {
+          "matt": "pottery\\pottery_en_word_matt.mp3",
+          "danna": "pottery\\pottery_en_word_danna.mp3",
+          "clara": "pottery\\pottery_en_word_clara.mp3"
+        },
+        "kr": "pottery\\pottery_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "practical",
+      "audio": {
+        "en": {
+          "matt": "practical\\practical_en_word_matt.mp3",
+          "danna": "practical\\practical_en_word_danna.mp3",
+          "clara": "practical\\practical_en_word_clara.mp3"
+        },
+        "kr": "practical\\practical_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "practice",
+      "audio": {
+        "en": {
+          "matt": "practice\\practice_en_word_matt.mp3",
+          "danna": "practice\\practice_en_word_danna.mp3",
+          "clara": "practice\\practice_en_word_clara.mp3"
+        },
+        "kr": "practice\\practice_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "praise",
+      "audio": {
+        "en": {
+          "matt": "praise\\praise_en_word_matt.mp3",
+          "danna": "praise\\praise_en_word_danna.mp3",
+          "clara": "praise\\praise_en_word_clara.mp3"
+        },
+        "kr": "praise\\praise_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "preach",
+      "audio": {
+        "en": {
+          "matt": "preach\\preach_en_word_matt.mp3",
+          "danna": "preach\\preach_en_word_danna.mp3",
+          "clara": "preach\\preach_en_word_clara.mp3"
+        },
+        "kr": "preach\\preach_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "precede",
+      "audio": {
+        "en": {
+          "matt": "precede\\precede_en_word_matt.mp3",
+          "danna": "precede\\precede_en_word_danna.mp3",
+          "clara": "precede\\precede_en_word_clara.mp3"
+        },
+        "kr": "precede\\precede_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "precise",
+      "audio": {
+        "en": {
+          "matt": "precise\\precise_en_word_matt.mp3",
+          "danna": "precise\\precise_en_word_danna.mp3",
+          "clara": "precise\\precise_en_word_clara.mp3"
+        },
+        "kr": "precise\\precise_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "predator",
+      "audio": {
+        "en": {
+          "matt": "predator\\predator_en_word_matt.mp3",
+          "danna": "predator\\predator_en_word_danna.mp3",
+          "clara": "predator\\predator_en_word_clara.mp3"
+        },
+        "kr": "predator\\predator_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "predict",
+      "audio": {
+        "en": {
+          "matt": "predict\\predict_en_word_matt.mp3",
+          "danna": "predict\\predict_en_word_danna.mp3",
+          "clara": "predict\\predict_en_word_clara.mp3"
+        },
+        "kr": "predict\\predict_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "prefer",
+      "audio": {
+        "en": {
+          "matt": "prefer\\prefer_en_word_matt.mp3",
+          "danna": "prefer\\prefer_en_word_danna.mp3",
+          "clara": "prefer\\prefer_en_word_clara.mp3"
+        },
+        "kr": "prefer\\prefer_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "pregnant",
+      "audio": {
+        "en": {
+          "matt": "pregnant\\pregnant_en_word_matt.mp3",
+          "danna": "pregnant\\pregnant_en_word_danna.mp3",
+          "clara": "pregnant\\pregnant_en_word_clara.mp3"
+        },
+        "kr": "pregnant\\pregnant_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "prejudice",
+      "audio": {
+        "en": {
+          "matt": "prejudice\\prejudice_en_word_matt.mp3",
+          "danna": "prejudice\\prejudice_en_word_danna.mp3",
+          "clara": "prejudice\\prejudice_en_word_clara.mp3"
+        },
+        "kr": "prejudice\\prejudice_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "premium",
+      "audio": {
+        "en": {
+          "matt": "premium\\premium_en_word_matt.mp3",
+          "danna": "premium\\premium_en_word_danna.mp3",
+          "clara": "premium\\premium_en_word_clara.mp3"
+        },
+        "kr": "premium\\premium_kr_trans_nara.mp3"
+      }
+    },
+    {
+      "word": "prepare",
+      "audio": {
+        "en": {
+          "matt": "prepare\\prepare_en_word_matt.mp3",
+          "danna": "prepare\\prepare_en_word_danna.mp3",
+          "clara": "prepare\\prepare_en_word_clara.mp3"
+        },
+        "kr": "prepare\\prepare_kr_trans_nara.mp3"
+      }
+    }
+  ]
+}

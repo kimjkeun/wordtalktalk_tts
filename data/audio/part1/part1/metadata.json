@@ -1,0 +1,1004 @@
+{
+  "vocabulary_items": [
+    {
+      "word": {
+        "text": "abandon",
+        "audio": {},
+        "translation": {
+          "text": "버리다, 포기하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "abnormal",
+        "audio": {},
+        "translation": {
+          "text": "비정상적인, 이상한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "aboard",
+        "audio": {},
+        "translation": {
+          "text": "탑승하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "abolish",
+        "audio": {},
+        "translation": {
+          "text": "폐지하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "abort",
+        "audio": {},
+        "translation": {
+          "text": "중단하다, 취소하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "abortion",
+        "audio": {},
+        "translation": {
+          "text": "낙태",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "abound",
+        "audio": {},
+        "translation": {
+          "text": "풍부하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "abroad",
+        "audio": {},
+        "translation": {
+          "text": "해외에, 외국에",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "abrupt",
+        "audio": {},
+        "translation": {
+          "text": "갑작스러운",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "absent",
+        "audio": {},
+        "translation": {
+          "text": "결석한, 부재중인",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "absolute",
+        "audio": {},
+        "translation": {
+          "text": "절대적인",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "absorb",
+        "audio": {},
+        "translation": {
+          "text": "흡수하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "abstract",
+        "audio": {},
+        "translation": {
+          "text": "추상적인",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "absurd",
+        "audio": {},
+        "translation": {
+          "text": "터무니없는",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "abundant",
+        "audio": {},
+        "translation": {
+          "text": "풍부한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "abuse",
+        "audio": {},
+        "translation": {
+          "text": "남용하다, 학대하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "academy",
+        "audio": {},
+        "translation": {
+          "text": "학원, 학교",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "accelerate",
+        "audio": {},
+        "translation": {
+          "text": "가속하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "accent",
+        "audio": {},
+        "translation": {
+          "text": "억양, 강조",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "accept",
+        "audio": {},
+        "translation": {
+          "text": "받아들이다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "accommodate",
+        "audio": {},
+        "translation": {
+          "text": "수용하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "accompany",
+        "audio": {},
+        "translation": {
+          "text": "동반하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "accomplish",
+        "audio": {},
+        "translation": {
+          "text": "성취하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "accord",
+        "audio": {},
+        "translation": {
+          "text": "일치하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "account",
+        "audio": {},
+        "translation": {
+          "text": "계정, 설명",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "accumulate",
+        "audio": {},
+        "translation": {
+          "text": "축적하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "accurate",
+        "audio": {},
+        "translation": {
+          "text": "정확한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "accuse",
+        "audio": {},
+        "translation": {
+          "text": "고발하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "achieve",
+        "audio": {},
+        "translation": {
+          "text": "달성하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "acid",
+        "audio": {},
+        "translation": {
+          "text": "산성의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "acknowledge",
+        "audio": {},
+        "translation": {
+          "text": "인정하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "acquire",
+        "audio": {},
+        "translation": {
+          "text": "획득하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "acquisition",
+        "audio": {},
+        "translation": {
+          "text": "획득, 습득",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "adapt",
+        "audio": {},
+        "translation": {
+          "text": "적응하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "addict",
+        "audio": {},
+        "translation": {
+          "text": "중독되다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "adequate",
+        "audio": {},
+        "translation": {
+          "text": "적절한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "adhere",
+        "audio": {},
+        "translation": {
+          "text": "고수하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "adjust",
+        "audio": {},
+        "translation": {
+          "text": "조정하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "administer",
+        "audio": {},
+        "translation": {
+          "text": "관리하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "administration",
+        "audio": {},
+        "translation": {
+          "text": "행정",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "admire",
+        "audio": {},
+        "translation": {
+          "text": "감탄하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "admission",
+        "audio": {},
+        "translation": {
+          "text": "입장, 입학",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "admit",
+        "audio": {},
+        "translation": {
+          "text": "인정하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "adolescent",
+        "audio": {},
+        "translation": {
+          "text": "청소년",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "adopt",
+        "audio": {},
+        "translation": {
+          "text": "채택하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "advance",
+        "audio": {},
+        "translation": {
+          "text": "진보하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "advantage",
+        "audio": {},
+        "translation": {
+          "text": "이점",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "adventure",
+        "audio": {},
+        "translation": {
+          "text": "모험",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "adverse",
+        "audio": {},
+        "translation": {
+          "text": "불리한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "advertise",
+        "audio": {},
+        "translation": {
+          "text": "광고하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "advice",
+        "audio": {},
+        "translation": {
+          "text": "조언",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "advise",
+        "audio": {},
+        "translation": {
+          "text": "조언하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "advocate",
+        "audio": {},
+        "translation": {
+          "text": "옹호하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "aesthetic",
+        "audio": {},
+        "translation": {
+          "text": "미적인",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "affair",
+        "audio": {},
+        "translation": {
+          "text": "일, 사건",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "affect",
+        "audio": {},
+        "translation": {
+          "text": "영향을 미치다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "affection",
+        "audio": {},
+        "translation": {
+          "text": "애정",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "affirm",
+        "audio": {},
+        "translation": {
+          "text": "확언하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "afford",
+        "audio": {},
+        "translation": {
+          "text": "여유가 있다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "agency",
+        "audio": {},
+        "translation": {
+          "text": "대리점",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "agenda",
+        "audio": {},
+        "translation": {
+          "text": "의제",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "aggress",
+        "audio": {},
+        "translation": {
+          "text": "공격하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "aggressive",
+        "audio": {},
+        "translation": {
+          "text": "공격적인",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "agriculture",
+        "audio": {},
+        "translation": {
+          "text": "농업",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "alert",
+        "audio": {},
+        "translation": {
+          "text": "경계하는",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "alien",
+        "audio": {},
+        "translation": {
+          "text": "외계인, 이질적인",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "alike",
+        "audio": {},
+        "translation": {
+          "text": "비슷한",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "allergy",
+        "audio": {},
+        "translation": {
+          "text": "알레르기",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "allocate",
+        "audio": {},
+        "translation": {
+          "text": "할당하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "ally",
+        "audio": {},
+        "translation": {
+          "text": "동맹",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "alongside",
+        "audio": {},
+        "translation": {
+          "text": "옆에",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "aloud",
+        "audio": {},
+        "translation": {
+          "text": "소리내어",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "alter",
+        "audio": {},
+        "translation": {
+          "text": "변경하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "alternate",
+        "audio": {},
+        "translation": {
+          "text": "교대의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "alternative",
+        "audio": {},
+        "translation": {
+          "text": "대안",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "although",
+        "audio": {},
+        "translation": {
+          "text": "비록 ~일지라도",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "altitude",
+        "audio": {},
+        "translation": {
+          "text": "고도",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "altogether",
+        "audio": {},
+        "translation": {
+          "text": "완전히",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "amaze",
+        "audio": {},
+        "translation": {
+          "text": "놀라게 하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "ambassador",
+        "audio": {},
+        "translation": {
+          "text": "대사",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "ambition",
+        "audio": {},
+        "translation": {
+          "text": "야망",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "ambitious",
+        "audio": {},
+        "translation": {
+          "text": "야심찬",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "amend",
+        "audio": {},
+        "translation": {
+          "text": "수정하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "amuse",
+        "audio": {},
+        "translation": {
+          "text": "즐겁게 하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "analogy",
+        "audio": {},
+        "translation": {
+          "text": "유사",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "analysis",
+        "audio": {},
+        "translation": {
+          "text": "분석",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "analyze",
+        "audio": {},
+        "translation": {
+          "text": "분석하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "ancestor",
+        "audio": {},
+        "translation": {
+          "text": "조상",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "anchor",
+        "audio": {},
+        "translation": {
+          "text": "닻",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "ancient",
+        "audio": {},
+        "translation": {
+          "text": "고대의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "anger",
+        "audio": {},
+        "translation": {
+          "text": "분노",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "anniversary",
+        "audio": {},
+        "translation": {
+          "text": "기념일",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "announce",
+        "audio": {},
+        "translation": {
+          "text": "발표하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "annoy",
+        "audio": {},
+        "translation": {
+          "text": "성가시게 하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "annual",
+        "audio": {},
+        "translation": {
+          "text": "연간의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "anonymous",
+        "audio": {},
+        "translation": {
+          "text": "익명의",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "anticipate",
+        "audio": {},
+        "translation": {
+          "text": "예상하다",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "antique",
+        "audio": {},
+        "translation": {
+          "text": "골동품",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "anxiety",
+        "audio": {},
+        "translation": {
+          "text": "불안",
+          "audio": null
+        }
+      }
+    },
+    {
+      "word": {
+        "text": "anxious",
+        "audio": {},
+        "translation": {
+          "text": "걱정하는",
+          "audio": null
+        }
+      }
+    }
+  ]
+}
