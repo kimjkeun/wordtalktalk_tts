@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Audio Combine Test</title>
+</head>
+<body>
+    <h2>Audio Combine Test</h2>
+    <form action="https://wordtalktalk-tts.onrender.com/combine-audio" method="POST" enctype="multipart/form-data">
+        <div>
+            <label for="en_audio">English Audio:</label>
+            <input type="file" id="en_audio" name="en_audio" accept=".mp3,.wav" required>
+        </div>
+        <br>
+        <div>
+            <label for="kr_audio">Korean Audio:</label>
+            <input type="file" id="kr_audio" name="kr_audio" accept=".mp3,.wav" required>
+        </div>
+        <br>
+        <button type="submit">Combine Audio</button>
+    </form>
+</body>
+</html>
